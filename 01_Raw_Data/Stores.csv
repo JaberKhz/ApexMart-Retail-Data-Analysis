@@ -1,0 +1,15 @@
+Store_ID,Store_Name,Region,City,Open_Date,Store_Status,Manager_Name
+ST001,Cairo Downtown,North,Cairo,2022-09-10,Active,Hassan Amin
+ST002,Alexandria City Center,North,Alexandria,12/01/2022,Active,Mariam Mostafa
+ST003,Tanta Mall,North,Tanta,30/03/2022,Active,Adam Sayed
+ST004,Giza Plaza,South,Giza,30-Apr-2023,Active,Salma Ibrahim
+ST005,Luxor Market,South,Luxor,06/04/2023,Active,Karim Hassan
+ST006,Aswan Corniche,South,Aswan,12/19/2022,Active,Omar Hassan
+ST007,Ismailia Hub,East,Ismailia,05/19/2024,Active,Omar Ibrahim
+ST008,Port Said Plaza,East,Port Said,07/30/2022,Active,Omar Samir
+ST009,Suez Center,East,Suez,2023-01-04,Active,Laila Tarek
+ST010,Fayoum Gate,West,Fayoum,2023/03/02,Active,Hassan Amin
+ST011,Beni Suef Point,West,Beni Suef,2022-02-03,Active,Karim Ali
+ST012,Minya Square,West,Minya,24/06/2022,Active,Youssef Mostafa
+ST013,New Cairo Park,Central,New Cairo,02/26/2022,Active,Adam Tarek
+ST014,6th of October Mall,Central,6th of October,07/07/2023,Active,Salma Hassan

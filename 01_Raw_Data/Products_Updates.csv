@@ -1,0 +1,19 @@
+Product_ID,Product_Name,Category,Subcategory,Standard_Price,Standard_Cost,Launch_Date,Product_Status
+P1021,urban yoga mat,Lifestyle,Fitness,840.19,420,24/04/2023,Active
+P1012,homebrew blender,Home Appliances,Kitchen,3079.95,2100,2023/05/03,Active
+P1010, Aero Bluetooth Speaker,Electronics,Audio,2571.85,1480,2023/04/10,Discontinued
+P1016,Luma Office Chair,Furniture,Office,5336.24,3950,11/08/2024,Active
+P1003,pulse 27 monitor,,Monitors,11917.29,7900,2024/09/10,Active
+P1013,CleanWave Vacuum,,Cleaning,6810.28,4650,04/06/2023,Active
+P1018,Luma Storage Cabinet,Furniture,Storage,4591.85,3300,02/06/2024,Active
+P1022,Freshhome Water Filter,,Water,2600.13,1650,24/02/2023,Discontinued
+P1020,Urban Fitness Bottle ,,Fitness,670.36,290,2023/10/12,Active
+P1007,CORE USB-C DOCK,,Accessories,4551.05,2500,03-Apr-2023,Active
+P1022,Freshhome Water Filter,,Water,2600.13,1650,24/02/2023,Discontinued
+P1020,Urban Fitness Bottle ,Lifestyle,Fitness,670.36,290,2023/10/12,Active
+P1010, Aero Bluetooth Speaker,Electronics,Audio,2571.85,1480,2023/04/10,Discontinued
+P1018,Luma Storage Cabinet,Furniture,Storage,4591.85,3300,02/06/2024,Active
+P1003,pulse 27 monitor,Electronics,Monitors,11917.29,7900,2024/09/10,Active
+P1013,CleanWave Vacuum,,Cleaning,6810.28,4650,04/06/2023,Active
+P1012,homebrew blender,Home Appliances,Kitchen,3079.95,2100,2023/05/03,Active
+P1016,Luma Office Chair,,Office,5336.24,3950,11/08/2024,Active

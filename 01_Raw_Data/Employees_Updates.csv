@@ -1,0 +1,13 @@
+Employee_ID,Employee_Name,Department,Store_ID,Region,Hire_Date,Employment_Status
+E0002,Khaled Ali,Customer Service ,ST001,North,20-Jun-2025,Active
+E0028,Karim Ali ,,ST010,west,12/12/2021,Active
+E0013, Omar Fathy,OPERATIONS,ST005, South,15/08/2019,Active
+E0019,  Mariam Ibrahim  ,,ST007,East,20-Apr-2020,Active
+E0017,  Nada Samir  ,SALES,ST006,south,2024/04/14,Active
+E0024,LAILA TAREK,,ST008,East,22/04/2021,Active
+E0031,youssef hassan,Customer Service ,ST011, West,25-Sep-2023,Inactive
+E0033,Mariam Samir ,,ST011,West,10/06/2022,Active
+E0016, Nour Hassan,,ST006, South,2023-08-20,Active
+E0037,HASSAN MOSTAFA,,ST013, Central,29/10/2020,Active
+E0020,adam mahmoud,operations,ST007,EAST,04/04/2024,Active
+E0004,Salma Tarek,Operations,ST002,north,27-Feb-2024,Active

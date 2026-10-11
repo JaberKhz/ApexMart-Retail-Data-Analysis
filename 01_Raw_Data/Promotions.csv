@@ -1,0 +1,121 @@
+Promo_ID,Promo_Name,Start_Date,End_Date,Channel,Discount_Pct,Category
+PR0001,Weekend Days,2025-03-23,10/05/2025,Store,0.3,Home Appliances
+PR0002,Member Deal,12/05/2025,05/02/2025,Marketplace,0.2,Electronics
+PR0003,Holiday Deal,13/05/2025,06/05/2025,Store,0.3,HOME APPLIANCES
+PR0004,Spring Boost,2025-03-29,04/06/2025,Online,0.05,Electronics
+PR0005,Flash Days,2025/03/10,05/31/2025,Store,0.3,Electronics
+PR0006,Weekend Days,2025-02-17,2025-04-26,Marketplace,0.3,Home Appliances
+PR0007,Flash Deal,15/02/2025,09/04/2025,Online,0.05,Lifestyle
+PR0008,Spring Days,13-Apr-2025,2025/05/09,Corporate,0.3,Electronics
+PR0009,Holiday Deal,08/01/2025,20-Mar-2025,Marketplace,0.2,Electronics
+PR0010,Holiday Deal,04-Apr-2025,04/28/2025,Store,0.05,Home Appliances
+PR0011,Spring Boost,02/19/2025,05/06/2025,Marketplace,0.15,Home Appliances
+PR0012,Weekend Days,2025-04-07,2025-04-04,Online,0.1,Electronics
+PR0013,Spring Days,02/10/2025,22/03/2025,Store,0.05,Lifestyle
+PR0014,Holiday Sale,13/04/2025,04-Mar-2025,Store,0.15,Electronics
+PR0015,Flash Deal,2025-03-08,2025-04-20,Store,0.25,Electronics
+PR0016,Holiday Days,2025/01/18,05/17/2025,Corporate,0.3,Lifestyle
+PR0017,Holiday Boost,2025-05-12,25/03/2025,Online,0.15,Home Appliances
+PR0018,Flash Days,2025-03-12,02/25/2025,Online,0.2,Home Appliances
+PR0019,Member Sale,04/19/2025,2025/06/13,Online,0.1,electronics
+PR0020,Flash Sale,04/18/2025,01/06/2025,Online,0.1,Lifestyle
+PR0021,Weekend Boost,25-Mar-2025,2025-05-16,Store,0.3,Electronics
+PR0022,Spring Sale,04/22/2025,04/14/2025,Corporate,0.05,Electronics
+PR0023,Member Boost,2025/01/11,2025/03/31,Marketplace,0.05,Furniture
+PR0024,Holiday Sale,01/02/2025,04/08/2025,Store,0.2,Electronics
+PR0025,Member Sale,2025-04-19,2025-05-11,Corporate,0.05,Home Appliances
+PR0026,Flash Days,2025/03/20,03/14/2025,Marketplace,0.05,Electronics
+PR0027,Spring Days,01/04/2025,02/22/2025,Marketplace,0.05,Lifestyle
+PR0028,Flash Days,2025-02-11,13/05/2025,Store,0.2,Home Appliances
+PR0029,Weekend Boost,04/22/2025,2025-06-08,Online,0.25,Electronics
+PR0030,Holiday Days,2025/01/28,14/03/2025,Marketplace,0.15,Furniture
+PR0031,Holiday Deal,26/02/2025,03-Apr-2025,Corporate,0.25,Lifestyle
+PR0032,Member Sale,01/01/2025,03/28/2025,Store,0.1,Home Appliances
+PR0033,Spring Boost,2025-05-04,13-Apr-2025,Marketplace,0.3,Home Appliances
+PR0034,Member Days,09-Feb-2025,11/05/2025,Store,0.05,Furniture
+PR0035,Spring Sale,04-Mar-2025,2025-04-05,Marketplace,0.05,Electronics
+PR0036,Weekend Days,20/03/2025,2025/05/23,Marketplace,0.15,Electronics
+PR0037,Flash Days,16-Jan-2025,03/29/2025,Online,0.05,HOME APPLIANCES
+PR0038,Flash Boost,2025-03-03,2025-06-12,Corporate,0.15,Electronics
+PR0039,Member Days,2025-01-01,2025/06/04,Marketplace,0.2,Electronics
+PR0040,Weekend Boost,2025-01-18,06/09/2025,Online,0.2,Home Appliances
+PR0041,Flash Sale,04/10/2025,04/06/2025,Store,0.05,Electronics
+PR0042,Weekend Deal,05/05/2025,2025/06/10,Online,0.3,Furniture
+PR0043,Weekend Boost,04/05/2025,22/02/2025,Marketplace,0.15,Lifestyle
+PR0044,Spring Sale,03/06/2025,2025/05/29,Marketplace,0.25,Electronics
+PR0045,Holiday Days,28-Mar-2025,17/03/2025,Marketplace,0.25,Home Appliances
+PR0046,Weekend Sale,04/20/2025,invalid,Corporate,0.1,Home Appliances
+PR0047,Weekend Days,01/07/2025,invalid,Online,0.2,Electronics
+PR0048,Weekend Sale,03/04/2025,invalid,Corporate,0.3,home appliances
+PR0049,Member Deal,2025-04-30,17/05/2025,Marketplace,0.3,Electronics
+PR0050,Holiday Sale,01/15/2025,2025-03-17,Online,0.15,Home Appliances
+PR0051,Holiday Boost,14-Mar-2025,05/27/2025,Store,0.2,Electronics
+PR0052,Holiday Boost,17-Mar-2025,2025-03-14,Corporate,0.05,Electronics
+PR0053,Member Deal,2025-02-11,24-Apr-2025,Corporate,0.25, Home Appliances
+PR0054,Member Deal,23-Apr-2025,14/05/2025,Store,0.25,Lifestyle
+PR0055,Flash Deal,2025-01-06,05/06/2025,Corporate,0.25,Home Appliances
+PR0056,Holiday Sale,2025/02/16,2025/06/06,Online,0.25,Lifestyle
+PR0057,Flash Days,18/03/2025,invalid,Marketplace,0.05,Electronics
+PR0058,Holiday Days,2025-04-29,30/03/2025,Online,0.05,Home Appliances
+PR0059,Spring Sale,24/03/2025,2025/05/28,Online,0.2,Home Appliances
+PR0060,Weekend Sale,2025-02-01,2025-02-15,Corporate,0.1,Electronics
+PR0061,Holiday Sale,06/01/2025,03/22/2025,Corporate,0.05,Electronics
+PR0062,Flash Boost,2025/03/22,2025-04-07,Online,0.2,Home Appliances
+PR0063,Weekend Sale,2025-03-28,invalid,Marketplace,0.25,Electronics
+PR0064,Weekend Sale,28/03/2025,2025/04/07,Online,0.05,Home Appliances
+PR0065,Member Days,2025-05-03,2025-04-30,Store,0.3,Furniture
+PR0066,Spring Boost,18-Mar-2025,2025/03/11,Online,0.15,Furniture
+PR0067,Spring Sale,2025/01/15,04/05/2025,Online,0.05,Furniture
+PR0068,Flash Boost,02/22/2025,03/23/2025,Corporate,0.3,Electronics
+PR0069,Holiday Sale,02/22/2025,2025-02-24,Corporate,0.15,electronics
+PR0070,Flash Boost,26/03/2025,19-May-2025,Corporate,0.2,Electronics
+PR0071,Flash Boost,01/06/2025,invalid,Online,0.05, Home Appliances
+PR0072,Spring Days,01/19/2025,13-Apr-2025,Online,0.1,Home Appliances
+PR0073,Spring Deal,06/03/2025,03/26/2025,Online,0.2,Home Appliances
+PR0074,Weekend Sale,09-Mar-2025,30/04/2025,Store,0.1,Electronics
+PR0075,Member Days,11/02/2025,27-May-2025,Corporate,0.15,Electronics
+PR0076,Member Deal,2025-03-12,04/08/2025,Marketplace,0.15,Electronics
+PR0077,Member Days,2025-04-28,06-Mar-2025,Store,0.25,Lifestyle
+PR0078,Spring Deal,2025-03-01,04/17/2025,Store,0.1,Electronics
+PR0079,Weekend Deal,02/27/2025,08/04/2025,Online,0.1,Lifestyle
+PR0080,Member Boost,2025-05-05,07/04/2025,Online,0.3,Lifestyle
+PR0081,Holiday Boost,27/03/2025,06/05/2025,Online,0.25,Electronics
+PR0082,Member Sale,24/04/2025,2025/04/30,Store,0.15,Home Appliances
+PR0083,Flash Deal,2025-03-13,14/06/2025,Corporate,0.15,Lifestyle
+PR0084,Weekend Sale,19-Feb-2025,13/03/2025,Store,0.3,Electronics
+PR0085,Flash Deal,03/31/2025,26-Apr-2025,Store,0.15,Furniture
+PR0086,Spring Days,15/01/2025,2025-05-06,Store,0.3,Home Appliances
+PR0087,Member Sale,30-Jan-2025,2025-04-02,Online,0.3,Electronics
+PR0088,Flash Days,05-Feb-2025,invalid,Corporate,0.15,Lifestyle
+PR0089,Spring Deal,2025-02-04,23-May-2025,Store,0.1,Electronics
+PR0090,Flash Sale,2025/01/11,2025/06/13,Online,0.05,Furniture
+PR0091,Spring Sale,2025/03/22,2025/06/13,Corporate,0.05,Home Appliances
+PR0092,Weekend Deal,02/27/2025,2025/04/19,Marketplace,0.2,Home Appliances
+PR0093,Weekend Sale,2025-04-29,05/23/2025,Store,0.15,HOME APPLIANCES
+PR0094,Member Boost,2025-01-15,09-Jun-2025,Marketplace,0.15,Electronics
+PR0095,Flash Deal,23/01/2025,03/07/2025,Online,0.25,furniture
+PR0096,Spring Boost,13-Jan-2025,invalid,Store,0.3,Lifestyle
+PR0097,Weekend Deal,14-Jan-2025,2025/06/02,Corporate,0.2,Electronics
+PR0098,Member Deal,20/04/2025,06/03/2025,Online,0.2,Home Appliances
+PR0099,Spring Deal,2025/01/24,2025-05-05,Corporate,0.3,Electronics
+PR0100,Weekend Sale,01/30/2025,2025/03/01,Marketplace,0.3,Lifestyle
+PR0101,Spring Boost,2025/01/22,21-May-2025,Online,0.3,Home Appliances
+PR0102,Spring Deal,01/05/2025,2025-05-30,Online,0.25,Lifestyle
+PR0103,Flash Sale,2025-04-11,24/03/2025,Corporate,0.3,ELECTRONICS
+PR0104,Flash Days,23/03/2025,03/22/2025,Corporate,0.3,Home Appliances
+PR0105,Spring Deal,2025-03-07,03/26/2025,Corporate,0.05,Lifestyle
+PR0106,Holiday Sale,01-Feb-2025,10-Mar-2025,Corporate,0.1,Home Appliances
+PR0107,Flash Days,04/18/2025,2025-04-10,Store,0.1,Electronics
+PR0108,Holiday Deal,09-Mar-2025,2025/04/06,Store,0.1,ELECTRONICS
+PR0109,Member Deal,2025/01/16,04-Jun-2025,Corporate,0.15,Electronics
+PR0110,Member Sale,14/05/2025,2025-05-10,Store,0.25,Electronics
+PR0111,Member Boost,2025/03/06,05/05/2025,Marketplace,0.3,Furniture
+PR0112,Holiday Deal,08/03/2025,22-Apr-2025,Corporate,0.3,Home Appliances
+PR0113,Spring Deal,20/03/2025,2025-03-16,Corporate,0.25,Electronics
+PR0114,Member Sale,2025/03/22,invalid,Corporate,0.15,Lifestyle
+PR0115,Spring Sale,18-Jan-2025,2025/03/06,Store,0.05,Furniture
+PR0116,Holiday Sale,03/22/2025,2025-06-07,Marketplace,0.2,ELECTRONICS
+PR0117,Weekend Deal,30-Apr-2025,15-Feb-2025,Marketplace,0.1,Electronics
+PR0118,Member Days,2025-04-27,2025/02/18,Store,0.2,Home Appliances
+PR0119,Flash Deal,03/21/2025,04/17/2025,Online,0.3,Lifestyle
+PR0120,Holiday Days,03-Feb-2025,03/24/2025,Corporate,0.1,Electronics

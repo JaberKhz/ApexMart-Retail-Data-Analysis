@@ -1,0 +1,43 @@
+Employee_ID,Employee_Name,Department,Store_ID,Region,Hire_Date,Employment_Status
+E0001,Adam Mostafa,Finance,ST001,North,01-Sep-2022,Active
+E0002,Khaled Ali,Customer Service,ST001,North,20-Jun-2025,Active
+E0003,Omar Samir,Customer Service,ST001,North,25/08/2022,Active
+E0004,Salma Tarek,Operations,ST002,North,27-Feb-2024,Active
+E0005,Nada Ibrahim,Customer Service,ST002,North,10/01/2023,Active
+E0006,Mariam Mahmoud,Customer Service,ST002,North,13/04/2023,Active
+E0007,Nour Fathy,Operations,ST003,North,20/03/2022,Active
+E0008,Salma Mahmoud,Sales,ST003,North,12/26/2019,Active
+E0009,Nour Amin,Customer Service,ST003,North,30-Jul-2019,Active
+E0010,Karim Amin,Sales,ST004,South,06-Dec-2021,Active
+E0011,Karim Tarek,Operations,ST004,South,02/01/2023,Active
+E0012,Salma Ibrahim,Sales,ST004,South,2019/03/06,Active
+E0013,Omar Fathy,Operations,ST005,South,15/08/2019,Active
+E0014,Khaled Mostafa,Operations,ST005,South,29-Apr-2024,Active
+E0015,Mariam Amin,Customer Service,ST005,South,2025/07/11,Active
+E0016,Nour Hassan,Finance,ST006,South,2023-08-20,Active
+E0017,Nada Samir,Sales,ST006,South,2024/04/14,Active
+E0018,Nour Mostafa,Sales,ST006,South,2025/03/13,Active
+E0019,Mariam Ibrahim,Finance,ST007,East,20-Apr-2020,Active
+E0020,Adam Mahmoud,Operations,ST007,East,04/04/2024,Active
+E0021,Nour Amin,Customer Service,ST007,East,2023-07-27,Active
+E0022,Khaled Kamal,Sales,ST008,East,2023-05-24,Active
+E0023,Farah Hassan,Finance,ST008,East,04/11/2019,Active
+E0024,Laila Tarek,Finance,ST008,East,22/04/2021,Active
+E0025,Khaled Sayed,Customer Service,ST009,East,26-Aug-2021,Leave
+E0026,Salma Tarek,Finance,ST009,East,2023-04-19,Active
+E0027,Nada Tarek,Finance,ST009,East,04/01/2022,Leave
+E0028,Karim Ali,Finance,ST010,West,12/12/2021,Active
+E0029,Adam Kamal,Finance,ST010,West,11-Jun-2024,Active
+E0030,Laila Mostafa,Sales,ST010,West,17/03/2023,Active
+E0031,Youssef Hassan,Operations,ST011,West,25-Sep-2023,Inactive
+E0032,Salma Nabil,Operations,ST011,West,2021/06/02,Active
+E0033,Mariam Samir,Finance,ST011,West,10/06/2022,Active
+E0034,Salma Samir,Sales,ST012,West,14-Oct-2019,Leave
+E0035,Karim Fathy,Finance,ST012,West,12-Jan-2024,Active
+E0036,Karim Hassan,Finance,ST012,West,17/04/2022,Active
+E0037,Hassan Mostafa,Customer Service,ST013,Central,29/10/2020,Active
+E0038,Adam Kamal,Operations,ST013,Central,2022/09/26,Active
+E0039,Laila Sayed,Customer Service,ST013,Central,2024-01-16,Active
+E0040,Salma Sayed,Customer Service,ST014,Central,2023-07-21,Active
+E0041,Youssef Hassan,Sales,ST014,Central,2022/09/25,Active
+E0042,Karim Tarek,Finance,ST014,Central,2021/11/07,Active

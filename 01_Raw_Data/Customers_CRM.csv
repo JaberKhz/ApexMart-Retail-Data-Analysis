@@ -1,0 +1,1742 @@
+Customer_ID,Customer_Name,Segment,City,Region,Signup_Date,Email_Domain,Customer_Status
+C01889,Mariam Ibrahim,Student,Ismailia,East,2024/09/04,yahoo.com,Active
+C00556,Youssef Fathy,Business,Fayoum,West,22-Jan-2025,gmail.com,Active
+C01510,Farah Ibrahim,Business,Cairo,North,2023-07-22,outlook.com,Dormant
+C01512,  Farah Ali  ,Professional,Alexandria,North,27/04/2023,outlook.com,Active
+C01707,Laila Kamal,Consumer,New Cairo,central,2023/08/14,yahoo.com,Active
+C01407,Mariam Samir,Student,New Cairo,Central,2024-11-03,company.com,Active
+C00039,Hassan Mahmoud,Student,Minya,West,28/01/2022,gmail.com,Active
+C02199,Salma Kamal,Consumer,Port Said,East,05-Feb-2022,gmail.com,Active
+C00526,khaled hassan,Business,Luxor,South,05/03/2025,yahoo.com,Active
+C02143,Nada Sayed,Student,Cairo,North,01-Mar-2023,gmail.com,Active
+C00784,Hassan Nabil,Professional,New Cairo,Central,28-Aug-2024,yahoo.com,Active
+C01825,Farah Samir,Student,Port Said,East,08/25/2024,outlook.com,Active
+C00943,Nour Sayed,Professional,Fayoum,West,17-Jan-2025,outlook.com,Active
+C01641,Farah Nabil,Student,Minya,West,07/20/2024,gmail.com,Active
+C00663,Farah Hassan,Consumer,LUXOR,South,2024/08/26,outlook.com,Active
+C00051,Nour Amin,Professional,Cairo,Central,20-Sep-2024,outlook.com,Active
+C00966,Hassan Nabil,Business,Suez,EAST,23/05/2024,company.com,Active
+C00171,Youssef Sayed,Consumer,Suez,East,07/11/2023,company.com,Active
+C00239,Nour Hassan,Professional,Suez,East,2023-08-04,gmail.com,Active
+C01151,Salma Tarek,Student,Alexandria,North,25/05/2024,yahoo.com,Inactive
+C00131,Mariam Tarek,Business,6th of October,Central,2023/06/17,gmail.com,Active
+C00876,Khaled Kamal,Business,Cairo,North,2023-02-16,company.com,Active
+C01374,Nour Mostafa,Student,Tanta,North,05/07/2022,gmail.com,Active
+C01368,Youssef Sayed,Consumer,Suez,East,2024/09/18,yahoo.com,Active
+C00997,Hassan Tarek,Student,Ismailia,East,2023/01/04,yahoo.com,Active
+C00314,Salma Samir,Business,Tanta,North,04-Dec-2024,outlook.com,Active
+C00478,Nada Mostafa,Student,Minya,West,02/07/2023,gmail.com,Inactive
+C01761,Youssef Mostafa,Student,Giza,South,23/08/2024,yahoo.com,Active
+C02121,Salma Sayed,Professional,Alexandria,North,09/12/2024,gmail.com,Active
+C01123,Hassan Ali,Student,Cairo,Central,03/21/2024,gmail.com,Active
+C00749,NOUR SAYED,Student,Alexandria,North,13-Feb-2023,outlook.com,Active
+C01059,Khaled Amin,Business,Giza,South,11/04/2024,outlook.com,Active
+C02192,Hassan Amin,Consumer,Minya,West,06/03/2022,gmail.com,Active
+C01284,Omar Nabil,Professional,New Cairo,Central,2024-05-07,yahoo.com,Active
+C02061,Khaled Amin,Consumer,Giza,South,2023/10/17,gmail.com,Active
+C01606,Salma Amin,Professional,Tanta,North,21-Jun-2022,outlook.com,Active
+C00106,Hassan Mostafa,Professional,Aswan,South,23-Oct-2022,outlook.com,Inactive
+C01835,Laila Ali ,Student,tanta,North,07/30/2024,outlook.com,Active
+C01873,Laila Kamal,Professional,6th of October,Central,09/10/2024,yahoo.com,Active
+C01557,Khaled Fathy,Professional,Fayoum,West,2022/02/10,yahoo.com,Active
+C00368,Adam Tarek,Business,Cairo,North,2023-09-22,gmail.com,Active
+C00188,Mariam Tarek,Business,Minya,West,12/30/2023,company.com,Active
+C01671,Nada Tarek,Consumer,Cairo,Central,2022/02/21,outlook.com,Active
+C01096,Salma Nabil,Business,New Cairo,Central,09/16/2024,company.com,Active
+C00629,Farah Nabil,Business,Fayoum,West,08-Dec-2023,company.com,Active
+C00168,Salma Amin,Professional,Cairo,North,2022/09/24,company.com,Active
+C01635,Nour Amin,Consumer,Port Said,East,01/15/2025,yahoo.com,Active
+C00669,salma ibrahim,Business,Minya,West,2022/03/17,outlook.com,Active
+C02021,mariam tarek,Business,Aswan,South,2024/11/12,company.com,Active
+C01749,Karim Hassan,Student,Minya,West,2025/02/26,gmail.com,Active
+C01362,Salma Hassan,Consumer,Luxor,South,04/12/2024,gmail.com,Active
+C01897,Khaled Mostafa,Business,Port Said,East,2024/03/22,company.com,Active
+C00612,Nada Sayed,Professional,Tanta,North,2022-04-07,yahoo.com,Active
+C00690, Khaled Hassan,Student,Beni Suef,West,11/20/2023,yahoo.com,Active
+C00753,Youssef Ali,Student,Minya,West,2023/12/15,yahoo.com,Active
+C01605,Khaled Sayed,Professional,Cairo,North,05/07/2024,yahoo.com,Active
+C02037,Nada Mostafa,Business,Aswan,South,12/07/2024,gmail.com,Active
+C00165,Nada Sayed,Consumer,Suez,East,23/07/2023,company.com,Active
+C01667,Farah Hassan,Business,Minya,West,2023-08-12,outlook.com,Active
+C00468,Laila Kamal,Consumer,Tanta,North,18-Feb-2025,outlook.com,Inactive
+C01773, Adam Samir,Professional,Port Said,East,03/31/2022,outlook.com,Dormant
+C00823,Farah Samir,Consumer, Minya ,West,07-Jul-2024,company.com,Dormant
+C01888,Khaled Ibrahim,Consumer,Minya,West,08/12/2023,gmail.com,Active
+C00801,Salma Kamal,Consumer,Fayoum,West,03/05/2023,company.com,Inactive
+C00009,Farah Kamal,Professional,New Cairo,Central,29/08/2023,company.com,Inactive
+C01805, Khaled Fathy,Consumer,Cairo,North,2023-04-04,outlook.com,Active
+C00842,Mariam Mahmoud,Business,Luxor,South,03-Dec-2023,yahoo.com,Dormant
+C00549,Omar Samir,Professional,Alexandria,North,05/07/2022,outlook.com,Active
+C01200,Nour Mahmoud,Consumer,luxor,South,2024-03-18,company.com,Active
+C01383,Youssef Hassan,Business,cairo,Central,03/07/2025,company.com,Inactive
+C01954,Hassan Amin,Professional,Suez,EAST,2025-03-11,company.com,Active
+C02100,Nour Nabil,Student,Cairo,North,2022/01/27,,Dormant
+C00105,Mariam Amin,Professional,Suez,East,2022-02-10,gmail.com,Dormant
+C00120,Laila Ibrahim,Consumer,Beni Suef,west,10/13/2023,outlook.com,Active
+C01660,Nada Tarek,Business,Tanta,North,31/12/2022,gmail.com,Active
+C00714, Laila Hassan,Student,Beni Suef,West,2022-04-27,company.com,Active
+C00808,Salma Mostafa,Professional, Cairo ,North,2024/03/05,gmail.com,Active
+C01865,Mariam Mostafa,Consumer,Fayoum,West,2022-12-06,company.com,Dormant
+C01432,Mariam Nabil,Professional,Beni Suef,West,31/12/2023,outlook.com,Active
+C00252,Farah Tarek,Business,Cairo,Central,29-Dec-2023,outlook.com,Active
+C00157,Youssef Amin,Business,Aswan,South,2022-05-28,outlook.com,Active
+C00894,Nour Mahmoud,Student,Minya,West,18/06/2023,yahoo.com,Active
+C01776,nada ali,Student,6th of October,Central,11/16/2022,company.com,Active
+C00898,Nada Hassan,Student,giza,South,16/12/2023,outlook.com,Active
+C02098,Mariam Ali,Student,Suez,East,2022-06-02,gmail.com,Active
+C01882,Laila Samir,Business,Beni Suef,west,2024-09-23,outlook.com,Active
+C01983,Farah Kamal,Consumer,Luxor,South,13-Jul-2022,yahoo.com,Active
+C00118,Mariam Samir,Professional,Beni Suef,West,2022-09-08,gmail.com,Dormant
+C00201,Farah Mahmoud,Business,New Cairo,Central,2023/08/14,gmail.com,Active
+C00158,Farah Hassan,Student,Tanta,North,06-Jan-2025,outlook.com,Active
+C01211,Hassan Sayed,Business,Luxor,South,07-Oct-2024,yahoo.com,Dormant
+C00787,Adam Ibrahim ,Business,Fayoum,West,21-Nov-2024,yahoo.com,Active
+C01090,Farah Kamal,Business,Ismailia,East,2023-07-31,gmail.com,Inactive
+C02006,Omar Ali,Consumer,alexandria,North,2023/08/14,company.com,Active
+C01179,Laila Hassan,Consumer,Cairo,Central,2023-08-22,company.com,Active
+C01427,Adam Hassan,Consumer,Fayoum,West,2024-04-02,gmail.com,Active
+C00454,Hassan Tarek,Consumer,Beni Suef,West,01/20/2024,yahoo.com,Active
+C01855,Hassan Ali,Consumer,Alexandria,North,2024/07/13,company.com,Active
+C00844,Khaled Ali,Professional,Port Said,East,16/10/2024,company.com,Active
+C01931,Farah Amin,Student,Giza,South,2022/04/04,company.com,Active
+C01549,Laila Mahmoud,Consumer,Cairo,Central,2024-04-11,yahoo.com,Active
+C01836,Nour Sayed,Consumer,Ismailia,East,01/22/2022,company.com,Dormant
+C01134,Adam Ali,Professional,Suez,East,01-Sep-2022,gmail.com,Active
+C02072,Mariam Hassan,Student,6th of October,Central,2024-07-16,yahoo.com,Active
+C00407,Salma Samir,Consumer,Fayoum,West,01/08/2022,outlook.com,Active
+C00246,Hassan Samir,Consumer,Fayoum,West,2024/09/03,yahoo.com,Active
+C00722,Khaled Kamal,Student,Beni Suef,West,03/06/2023,gmail.com,Active
+C01823,Nour Hassan,Consumer,6th of October,Central,2024/09/10,company.com,Active
+C00140,  Youssef Nabil  ,Consumer,6th of October,Central,05/08/2022,outlook.com,Active
+C01024,Laila Nabil,Consumer,Minya,West,2024-04-15,outlook.com,Active
+C02181,Khaled Fathy,Student,Cairo,North,14-Mar-2022,company.com,Dormant
+C00675,Laila Nabil,Professional,Fayoum,West,01/02/2023,,Active
+C01250,Khaled Fathy,Professional,Aswan,south,2024/06/17,yahoo.com,Active
+C01597,Nada Amin,Consumer,6th of October,Central,05/11/2024,gmail.com,Active
+C01089,Mariam Fathy,Student,Beni Suef,West,20/09/2022,outlook.com,Active
+C01400, Farah Hassan,Professional,Minya,West,2023-10-11,gmail.com,Active
+C00972,Karim Mahmoud,Student,Port Said,East,2024-12-14,,Active
+C00623,Farah Mostafa,Business,MINYA,West,13/11/2024,company.com,Active
+C01231,Nada Mostafa,Business,Tanta,North,19-Mar-2022,gmail.com,Inactive
+C01921,Omar Sayed,Consumer,Cairo,North,2022/06/27,outlook.com,Active
+C00091,Karim Sayed,Professional,New Cairo,Central,08/08/2022,outlook.com,Active
+C00047,Khaled Ali,Consumer,Luxor,South,10-Aug-2022,company.com,Active
+C00705,Farah Ibrahim,Student,6th of October,Central,2023-08-04,gmail.com,Inactive
+C01867,Omar Mahmoud,Student,PORT SAID,East,2024/07/15,company.com,Active
+C01530,Farah Tarek,Business,New Cairo,Central,01/06/2024,outlook.com,Active
+C00178,Omar Sayed,Business,Cairo,Central,25-Sep-2024,outlook.com,Active
+C00113,  Omar Fathy  ,Business,Suez,East,2023-02-11,yahoo.com,Active
+C00104,Karim Ibrahim,Business,6th of October,Central,2022/10/12,yahoo.com,Active
+C01982,Hassan Fathy,Professional,Alexandria,North,28/07/2023,outlook.com,Active
+C01290,Karim Tarek,Professional,Ismailia,East,17/06/2022,gmail.com,Active
+C01034,Karim Samir,Consumer,Giza,South,12/28/2024,yahoo.com,Active
+C00764,Nour Mahmoud,Student,Alexandria,North,11/01/2024,yahoo.com,Active
+C01678,Nada Hassan,Professional,Minya,West,27/09/2023,yahoo.com,Active
+C01581,Adam Ibrahim,Consumer,Ismailia,East,02/24/2022,company.com,Active
+C01303,Omar Nabil,Professional,Alexandria,North,04-Jul-2022,gmail.com,Dormant
+C00814,Adam Nabil,Student,Minya,West,02/10/2022,company.com,Active
+C00566,Laila Kamal,Consumer,Luxor,South,2022-04-17,company.com,Active
+C00660,Nada Mostafa,Student,Port Said,East,31/05/2022,outlook.com,Active
+C00290,Khaled Sayed,Business,6th of October,Central,22-Dec-2022,yahoo.com,Active
+C01872,Adam Kamal,Consumer,Minya,West,2022-11-18,outlook.com,Inactive
+C01580,NOUR SAMIR,Student,New Cairo,central,05-Jun-2022,yahoo.com,Active
+C01340,Mariam Nabil,Professional,CAIRO,North,02/07/2025,gmail.com,Active
+C01469,Nada Sayed,Student,Minya,West,24/04/2022,outlook.com,Active
+C01465,Nour Ibrahim,Student,PORT SAID,East,2024/08/30,company.com,Active
+C00850,Karim Ibrahim,Professional,Tanta,North,09/09/2022,company.com,Active
+C01834,Mariam Sayed,Student,port said,East,2023-06-15,yahoo.com,Active
+C01593,Khaled Kamal,Professional,Luxor,South,11-Sep-2023,yahoo.com,Active
+C01318,Nour Mahmoud,Student,Luxor,south,13/07/2023,gmail.com,Active
+C00006,Nour Fathy,Student,Beni Suef,West,2024/04/30,company.com,Active
+C00962,Omar Kamal,Professional,Aswan,South,2024/09/06,yahoo.com,Active
+C00704,Youssef Mahmoud,Consumer,Port Said,East,09/17/2023,company.com,Active
+C01781,Karim Mostafa,Student,New Cairo,Central,25-Jul-2023,yahoo.com,Active
+C00053,Khaled Hassan,Professional,Ismailia,East,20-Mar-2022,company.com,Active
+C01901,Adam Mostafa,Business,Alexandria,North,18/03/2023,yahoo.com,Active
+C01386,Laila Sayed,Business,Suez,east,2022-02-21,company.com,Active
+C01561,Nour Samir,Professional,6th of October,Central,27/06/2022,company.com,Active
+C01145,Khaled Ali,Business,Cairo,Central,12/30/2024,yahoo.com,Active
+C01191,Salma Sayed,Consumer,NEW CAIRO,central,11-Jul-2023,gmail.com,Active
+C00010,nada mahmoud,Business,Port Said,East,2022-04-21,outlook.com,Inactive
+C01001,Hassan Mahmoud,Consumer,Ismailia,East,18/03/2022,company.com,Active
+C00521,Adam Mahmoud,Consumer,6th of October,Central,22-Oct-2024,yahoo.com,Active
+C00301,Laila Ali,Consumer, Alexandria ,North,2023/02/23,gmail.com,Active
+C02149,Adam Nabil,Business,Ismailia,East,01/07/2025,gmail.com,Active
+C01824,Youssef Nabil,Consumer,6th of October,Central,19-Jan-2023,gmail.com,Active
+C01453,Salma Amin,Student,Cairo,North,28-May-2024,outlook.com,Active
+C00328,Nada Fathy,Consumer,Alexandria,North,10/12/2022,company.com,Active
+C01679,Laila Mostafa,Business,Luxor,South,27/06/2024,gmail.com,Active
+C00720,Hassan Kamal,Business,Luxor,South,05-Feb-2025,company.com,Active
+C01031,Omar Sayed,Student,Tanta,NORTH,2023-08-04,yahoo.com,Active
+C02036,Nour Kamal,Professional,6th of October,Central,08/17/2024,yahoo.com,Active
+C02139,Salma Amin,Professional,Giza,South,02-May-2024,outlook.com,Dormant
+C01938,Youssef Ali,Consumer,Giza,South,03/26/2023,gmail.com,Inactive
+C00317,Mariam Hassan,Professional,Cairo,North,03/09/2023,gmail.com,Active
+C01933,Laila Tarek,Consumer,new cairo,Central,22/09/2023,gmail.com,Active
+C01839,Mariam Amin,Professional,Alexandria,North,2023/02/17,company.com,Active
+C00497,Omar Mahmoud,Business,Ismailia,East,14/02/2024,yahoo.com,Active
+C02151,Farah Mostafa,Business, Giza ,South,09/02/2023,company.com,Active
+C00400,Hassan Tarek,Business,Aswan,South,23/03/2025,yahoo.com,Dormant
+C00696,Nada Mahmoud,Student,Port Said,East,2022-07-19,gmail.com,Active
+C01480,Adam Sayed,Professional,Beni Suef,West,2025/01/08,,Active
+C00751,Mariam Mostafa,Student,Cairo,North,03-Apr-2025,yahoo.com,Active
+C00189,Nour Hassan,Business,Aswan,south,12/08/2024,yahoo.com,Active
+C01355,Youssef Mostafa,Student,Minya,West,05/08/2022,company.com,Active
+C01487,Farah Kamal,Business,Aswan,South,25-Jun-2022,gmail.com,Active
+C00945,Karim Sayed,Professional,Luxor,South,2023-07-26,yahoo.com,Active
+C01047,Nour Fathy,Professional,Ismailia,East,2025/02/28,company.com,Active
+C00415,Nour Hassan,Professional,Cairo,North,11/06/2022,gmail.com,Dormant
+C00460,Youssef Mostafa,Professional,Cairo,North,29/09/2024,outlook.com,Active
+C00832,Nour Mahmoud,Business,Cairo,Central,2024/09/07,yahoo.com,Active
+C01448,Khaled Kamal,Business,Alexandria,North,04/08/2024,company.com,Active
+C00659,  Salma Nabil  ,Student,Suez,East,23/12/2024,company.com,Active
+C01276,Karim Hassan,Consumer,Luxor,South,27-Jun-2024,yahoo.com,Active
+C00671,Laila Fathy,Business,6th of October,Central,07-Feb-2025,yahoo.com,Active
+C01576,Hassan Ali,Professional,Cairo,north,2022-08-20,yahoo.com,Inactive
+C00530,  Adam Tarek  ,Professional,Giza,South,06/09/2024,gmail.com,Active
+C00580,Adam Ibrahim,Consumer,Tanta,North,2024-06-14,yahoo.com,Active
+C01518,Adam Nabil,Student,Aswan,South,04/09/2022,company.com,Active
+C00232,Salma Ibrahim,Business,Tanta,NORTH,03/07/2024,yahoo.com,Active
+C01375,Khaled Mostafa,Professional,Suez,East,2022-04-24,outlook.com,Active
+C00661,Adam Fathy,Business,New Cairo,Central,01/06/2022,yahoo.com,Active
+C01017,Hassan Tarek,Consumer,Luxor,South,16/07/2022,yahoo.com,Active
+C01202,Mariam Sayed ,Consumer,Suez,East,08-Apr-2024,outlook.com,Inactive
+C00959,  Hassan Ali  ,Professional,Cairo,Central,2024-11-03,gmail.com,Active
+C00601,Mariam Sayed,Consumer,Luxor,South,2022/02/27,yahoo.com,Active
+C01091,Nada Nabil,Student, Aswan ,SOUTH,2023-12-17,outlook.com,Active
+C00706,Youssef Ali,Student,Beni Suef,West,2023-11-06,company.com,Active
+C01722,Youssef Nabil,Student,Fayoum,West,2023-06-11,yahoo.com,Active
+C00490,Hassan Amin,Professional,Alexandria,North,2022/10/19,yahoo.com,Active
+C01622,Salma Fathy,Student,New Cairo,Central,2024/01/13,outlook.com,Active
+C01974,Salma Sayed,Business,Cairo,CENTRAL,17/07/2023,company.com,Active
+C00748,Youssef Sayed,Student,Giza,South,02/21/2025,outlook.com,Active
+C01063,Omar Ali,Business,Cairo,North,30/12/2024,yahoo.com,Active
+C02026,Nour Sayed,Business,Alexandria,North,04/25/2023,company.com,Active
+C00199,Mariam Ali,Business,Beni Suef,West,2024/11/05,gmail.com,Active
+C00627,Nour Amin,Consumer,Suez,East,31-May-2022,outlook.com,Active
+C01344,Farah Ali,Student,suez,East,15/11/2022,company.com,Active
+C01012,Farah Ali,Business,6th of October,Central,07/25/2024,yahoo.com,Active
+C00209,Hassan Nabil,Professional,Beni Suef,West,2024-12-08,outlook.com,Active
+C00255,Adam Nabil,Business,Minya,West,08/13/2024,company.com,Active
+C01676,Laila Samir,Student,Ismailia,East,2023-07-04,outlook.com,Active
+C00540,Hassan Nabil,Business,Luxor,South,16/04/2023,company.com,Active
+C00175,Salma Kamal,Professional,Alexandria,North,2023-06-21,company.com,Active
+C00265,Nour Samir,Professional,Fayoum,West,14/11/2023,yahoo.com,Active
+C00885,Laila Sayed,Professional,New Cairo,Central,2023-09-29,gmail.com,Active
+C01218,Nada Tarek,Professional,Luxor,South,02/02/2025,company.com,Active
+C01101,Nour Kamal,Professional,Ismailia,East,11/13/2023,yahoo.com,Active
+C01208,Farah Nabil,Consumer,Aswan,South,03/23/2023,outlook.com,Inactive
+C00098,Omar Amin,Consumer,Suez,East,05/25/2024,gmail.com,Active
+C00015,Farah Ibrahim,Student,Suez,East,18-May-2022,outlook.com,Active
+C00358,Mariam Tarek,Student,Giza,South,2022/02/18,,Active
+C01307,Farah Ali,Consumer,6th of October,Central,05/27/2022,yahoo.com,Active
+C01789,Salma Mahmoud,Business,6th of October,Central,07/22/2024,company.com,Active
+C02191,Hassan Mahmoud,Student,NEW CAIRO,Central,26/11/2022,company.com,Dormant
+C02011,Mariam Samir,Consumer,Cairo,Central,07/21/2022,company.com,Active
+C01495,Laila Fathy,Professional,Port Said,East,01-May-2022,company.com,Active
+C00345,Hassan Sayed,Student,Fayoum,West,03/18/2025,company.com,Active
+C00022,Omar Hassan,Business,New Cairo,Central,2022-12-14,outlook.com,Active
+C01815,Salma Fathy,Professional,Beni Suef,West,2022/03/01,outlook.com,Active
+C01293,Hassan Hassan,Student,Tanta,North,03-Mar-2022,yahoo.com,Active
+C01585,Hassan Samir,Professional,6th of October,Central,23-Jan-2024,company.com,Active
+C00130,Mariam Samir,Business, Fayoum ,West,2023/12/28,yahoo.com,Active
+C01129,  Nour Amin  ,Professional,Minya,West,10/29/2023,outlook.com,Active
+C00670,Nada Ali,Business,Cairo,Central,2023-05-21,yahoo.com,Active
+C01845,Hassan Mostafa,Business,Cairo,Central,03/01/2022,company.com,Active
+C01738,Omar Samir,Professional,6th of October,Central,02/08/2024,gmail.com,Active
+C00928,Youssef Sayed,Student,Beni Suef,West,2024/01/15,yahoo.com,Inactive
+C01981,Adam Sayed,Business,Alexandria,North,2022-06-26,yahoo.com,Active
+C02032,Nada Nabil,Professional,Tanta,North,2025-04-12,gmail.com,Active
+C00562,  Laila Sayed  ,Professional,6th of October,Central,2023/06/21,gmail.com,Active
+C00110,Nour Ibrahim,Professional,6th of October,Central,28-Feb-2023,gmail.com,Inactive
+C01039,Karim Nabil,Consumer,Alexandria,NORTH,2022/10/23,gmail.com,Active
+C01100,Nour Sayed,Business,Luxor,South,03/20/2025,outlook.com,Active
+C02123,Salma Mahmoud,Student,Fayoum,West,24-Mar-2022,yahoo.com,Active
+C02001,Omar Mostafa,Consumer,Port Said,East,10/14/2023,gmail.com,Active
+C02112,Salma Kamal,Consumer,Alexandria,North,05/08/2023,outlook.com,Active
+C01625,Karim Samir,Consumer,Fayoum,West,2024-09-04,company.com,Active
+C00405,Nour Mostafa,Student,New Cairo,Central,26/02/2023,outlook.com,Active
+C00029,Nada Mahmoud,Student,Beni Suef,West,2024/02/19,company.com,Active
+C01401,NADA AMIN,Professional,Alexandria,North,06/24/2023,company.com,Active
+C00141,Nada Mahmoud,Professional,Suez,East,2024/07/03,outlook.com,Active
+C00616,Khaled Ali,Professional,Giza,South,2022-09-11,gmail.com,Active
+C00763,Nada Nabil,Business,Alexandria,North,2024-10-07,yahoo.com,Active
+C00953,Salma Nabil,Consumer,Ismailia,East,05/02/2024,company.com,Active
+C01201,Khaled Ali,Student,Beni Suef,West,20/04/2022,yahoo.com,Inactive
+C01144,Laila Mostafa,Student,Alexandria,North,19/05/2023,gmail.com,Active
+C00489,Mariam Mostafa,Business,Cairo,North,10/16/2022,gmail.com,Active
+C01632,Salma Sayed,Business,Luxor,South,2022-05-13,gmail.com,Active
+C00375,Nada Nabil,Business,Minya,West,2022/07/28,gmail.com,Active
+C00849,laila kamal,Professional,Port Said,East,2024/10/31,company.com,Active
+C02004,Karim Tarek,Business,Ismailia,East,23/05/2024,yahoo.com,Active
+C00759,Youssef Samir,Business, Giza ,South,2023/12/26,gmail.com,Active
+C00095,Mariam Tarek,Student,Cairo,North,2024/08/02,yahoo.com,Active
+C01015,Karim Hassan,Consumer,Cairo,Central,07/31/2024,company.com,Active
+C00685,Salma Ali,Professional,Giza,South,2022-02-06,yahoo.com,Active
+C00412,Hassan Tarek,Business,6th of October,Central,2024/04/05,company.com,Active
+C01886,nour samir,Business,Giza,South,01/19/2022,outlook.com,Active
+C00667,Hassan Hassan,Consumer,Fayoum,West,16-Dec-2023,company.com,Active
+C00035,Youssef Mostafa,Consumer,6th of October,Central,31/07/2024,yahoo.com,Active
+C00069,Youssef Kamal,Consumer,Fayoum,West,04/03/2024,gmail.com,Active
+C01940,Mariam Nabil,Business,Tanta,North,2023/08/09,yahoo.com,Dormant
+C00555,Khaled Mostafa,Consumer,Cairo,North,2023-09-15,company.com,Active
+C02140,Farah Ali,Consumer,Giza,South,2024-05-25,,Active
+C01312,Hassan Mahmoud,Professional,Cairo,North,25/02/2023,yahoo.com,Active
+C01909, Farah Kamal,Student,Ismailia,East,03/07/2024,outlook.com,Active
+C01913,Hassan Mahmoud,Student,Minya,West,11-Mar-2024,yahoo.com,Active
+C00370,Mariam Mostafa,Consumer,6th of October,Central,2023/11/20,gmail.com,Active
+C01072,Nada Samir,Professional,TANTA,North,2022-10-17,outlook.com,Active
+C00733,Omar Tarek,Student,Aswan,South,2024-12-17,gmail.com,Active
+C02128,Laila Sayed,Consumer,Port Said,East,25/09/2023,company.com,Inactive
+C01392,Youssef Fathy,Professional,Cairo,North,04/03/2025,company.com,Active
+C01953,Omar Kamal,Consumer,Tanta,North,06-Mar-2022,outlook.com,Active
+C00169,Laila Amin,Student,Minya,West,08-Apr-2022,company.com,Active
+C01550,Youssef Mahmoud,Student,Luxor,South,2022-05-30,yahoo.com,Active
+C00567,Youssef Amin,Professional,Ismailia,East,08-Jun-2023,yahoo.com,Active
+C01726,Youssef Sayed,Student,FAYOUM,West,17/12/2023,gmail.com,Active
+C00504,Khaled Ibrahim,Consumer,Port Said,East,06/23/2023,gmail.com,Active
+C00678,Farah Samir,Student,New Cairo,Central,08/26/2024,company.com,Active
+C01267,Adam Ali,Consumer,Tanta,North,2022-04-01,company.com,Active
+C00920,Nour Mostafa,Consumer,Fayoum,West,24/05/2022,company.com,Active
+C01818,Salma Sayed,Consumer,Suez,East,11/06/2024,yahoo.com,Active
+C00310,Youssef Mahmoud,Consumer,6th of October,Central,2023-02-18,outlook.com,Active
+C00251, Nour Amin,Business,Alexandria,North,2023-08-23,gmail.com,Active
+C00277,Nour Fathy,Consumer,Tanta,North,2024/05/18,company.com,Active
+C01719,adam kamal,Consumer,6th of October,Central,31/08/2022,company.com,Active
+C00978,Khaled Nabil ,Consumer,Aswan,South,01/10/2023,gmail.com,Dormant
+C02078,  Farah Tarek  ,Business,Luxor,South,2022-09-16,yahoo.com,Active
+C00824,Omar Ali,Business,Giza,South,2022/06/22,gmail.com,Active
+C01895,Salma Hassan,Professional,cairo,Central,2022/02/25,company.com,Active
+C01813,Hassan Ali,Professional, Giza ,South,12/13/2023,yahoo.com,Dormant
+C01241,Farah Amin,Student,Cairo,Central,04/25/2023,gmail.com,Active
+C01169,Khaled Mostafa,Professional,New Cairo,Central,2023/10/07,gmail.com,Active
+C00204,Khaled Ibrahim,Business,Luxor,South,13-Jun-2022,company.com,Active
+C01537,Omar Mostafa,Business,Beni Suef,West,12/01/2022,yahoo.com,Dormant
+C00085,Nada Mahmoud,Student,Fayoum,West,06/19/2024,yahoo.com,Active
+C00952,Youssef Samir,Student,Cairo,Central,2023/10/04,gmail.com,Active
+C01509,Youssef Kamal,Business,Cairo,Central,29/12/2024,yahoo.com,Active
+C01112,Adam Tarek,Professional,Suez,East,2022/05/03,yahoo.com,Active
+C01002,Nada Sayed,Student,6th of October,Central,2023/06/05,gmail.com,Active
+C01885,Farah Sayed,Professional,alexandria,North,2022/06/29,yahoo.com,Active
+C01345,Mariam Ibrahim,Professional,Port Said,East,11/09/2024,outlook.com,Active
+C01876,Hassan Amin,Professional,Port Said,East,01/01/2022,outlook.com,Active
+C00342,Salma Mostafa,Consumer,New Cairo,Central,21/06/2024,yahoo.com,Inactive
+C00754,Nour Fathy,Student,6th of October,CENTRAL,20/09/2022,outlook.com,Active
+C00052,Nour Kamal,Consumer,6th of October,Central,22/09/2022,yahoo.com,Active
+C00595,Omar Kamal,Professional,Port Said,East,29-Oct-2024,,Active
+C00037,Hassan Ali,Consumer,Luxor,South,2025/02/02,gmail.com,Active
+C00839,Salma Ali,Student,Suez,East,2023/11/20,company.com,Active
+C00472,Laila Samir,Student,Minya,West,11-Dec-2023,company.com,Active
+C00376,Nada Ali,Student,Luxor,South,2022/06/05,company.com,Active
+C01380,Khaled Fathy,Consumer,Beni Suef,West,04/04/2025,gmail.com,Active
+C01056,Laila Mahmoud,Student,Suez,East,2024/01/19,company.com,Active
+C01503,Omar Tarek,Student,Fayoum,West,01/29/2022,gmail.com,Active
+C01420,Salma Hassan,Student,ISMAILIA,East,2023-02-19,outlook.com,Active
+C01132,Karim Hassan,Professional,Beni Suef,West,2022/05/28,outlook.com,Active
+C00146,Farah Sayed,Business,Tanta,North,2022/08/28,company.com,Active
+C00498,Salma Mostafa,Student,Alexandria,North,11/19/2023,company.com,Active
+C00834,Nada Sayed,Student,Cairo,Central,04/29/2024,gmail.com,Active
+C00350,Hassan Tarek,Consumer,New Cairo,Central,26-Dec-2022,company.com,Active
+C00206,Nour Kamal,Business,Fayoum,West,09/21/2022,gmail.com,Dormant
+C01798,Adam Ibrahim,Student,Minya,WEST,11-Mar-2024,outlook.com,Active
+C02166,Karim Nabil,Student,New Cairo,Central,05/23/2024,,Active
+C00994,  Adam Kamal  ,Consumer,Tanta,North,28-Sep-2023,company.com,Active
+C00969,Karim Mostafa,Professional,New Cairo,Central,2024-05-26,company.com,Active
+C00261,Omar Ibrahim,Professional,Aswan,South,2022-02-23,yahoo.com,Active
+C01926,Nour Mostafa,Business,Giza,South,04/10/2024,,Active
+C01105,Omar Nabil,Student,Ismailia,East,12/11/2024,gmail.com,Active
+C01103,Laila Hassan,Student,new cairo,Central,18-Feb-2022,,Dormant
+C02119,Hassan Tarek,Consumer,Luxor,South,2025-01-24,outlook.com,Inactive
+C01395,Laila Ibrahim,Consumer,Fayoum,West,2025-04-02,company.com,Active
+C00121,Mariam Nabil,Business,Cairo,Central,2023-10-24,gmail.com,Active
+C00564,Nour Amin,Student,Port Said,East,23-Sep-2023,yahoo.com,Active
+C00148, Adam Fathy,Student,Aswan,South,2023-08-20,outlook.com,Active
+C01936,Karim Mahmoud,Business,Beni Suef,West,03/17/2024,gmail.com,Active
+C00576,Hassan Amin,Consumer,New Cairo,Central,12/29/2024,outlook.com,Active
+C00641,Karim Mostafa,Professional,Giza,South,2025-03-09,company.com,Active
+C00003,Nada Nabil,Consumer,Giza,South,2022/05/31,gmail.com,Active
+C00293,Omar Fathy,Consumer, Cairo ,North,02/19/2023,yahoo.com,Active
+C02118,Youssef Nabil,Professional,Suez,East,2023/11/06,company.com,Active
+C01527,Hassan Kamal,Professional,Minya,West,05-Jan-2025,yahoo.com,Active
+C02089,Adam Mahmoud,Professional,Giza,South,2023-06-10,,Dormant
+C02165,Nour Tarek,Professional,Alexandria,North,06/22/2023,company.com,Active
+C00628,Omar Ibrahim,Business,Ismailia,East,28-Mar-2024,,Active
+C00740,Adam Ibrahim,Professional,Beni Suef,West,04/08/2024,,Inactive
+C00686,Mariam Hassan,Business,Suez,East,07/09/2022,yahoo.com,Active
+C00126,Nour Ibrahim,Business,Cairo,Central,31-Jan-2024,gmail.com,Active
+C01636,Khaled Nabil,Student,Minya,West,16/04/2024,outlook.com,Active
+C00409,Nour Ali,Consumer,Fayoum,West,20-Sep-2022,gmail.com,Active
+C01517,Mariam Amin,Professional,Luxor,South,2022/03/05,company.com,Dormant
+C01633,salma fathy,Student,6th of October,Central,2023-05-01,gmail.com,Active
+C00057,Salma Ibrahim,Student,Fayoum,West,2023-10-15,gmail.com,Active
+C00786,Nada Ali,Student,Port Said,East,2023-05-22,company.com,Active
+C01302,Khaled Fathy,Business,Ismailia,East,07/18/2022,yahoo.com,Dormant
+C00399,Adam Mostafa,Student,Suez,East,2024/02/25,outlook.com,Active
+C00646,Karim Fathy,Business,New Cairo,CENTRAL,2024-06-24,outlook.com,Active
+C01900,Omar Sayed,Business,Ismailia,East,2023/09/21,gmail.com,Active
+C00192,Omar Hassan,Consumer,Minya,West,23/09/2022,gmail.com,Active
+C02034,Hassan Mostafa,Student,Suez,East,2022-03-19,gmail.com,Active
+C01036,Hassan Ibrahim,Consumer,Fayoum,West,2025-02-09,yahoo.com,Inactive
+C00322,Hassan Fathy,Student,Suez,East,2022-05-19,yahoo.com,Active
+C00331,Laila Tarek,Student,New Cairo,Central,2024-01-29,outlook.com,Active
+C01969,Khaled Mostafa,Professional,Ismailia,East,12/26/2023,outlook.com,Inactive
+C00216,Youssef Sayed,Student,Fayoum,West,29-Jun-2022,outlook.com,Active
+C01137,Nour Ibrahim,Student,luxor,South,07/30/2024,yahoo.com,Active
+C01286,Farah Nabil,Student,Cairo,Central,02/12/2024,company.com,Active
+C00034,Salma Ali,Student,Ismailia,East,09/01/2022,company.com,Active
+C00957,Khaled Samir,Student,New Cairo,Central,2024-10-24,outlook.com,Active
+C00838,Hassan Sayed,Business,Minya,West,16-Jan-2024,outlook.com,Active
+C01032,Khaled Ali,Consumer,Fayoum,West,15/07/2024,company.com,Active
+C01657,Nada Ibrahim,Business,Tanta,North,2022/09/15,yahoo.com,Active
+C01961, Farah Ibrahim,Professional,Ismailia,East,2022/11/13,outlook.com,Active
+C00793,Omar Nabil,Business,Luxor,South,2024-10-07,gmail.com,Active
+C01419,Salma Ibrahim,Consumer,luxor,South,08/14/2024,gmail.com,Active
+C01277,Mariam Amin,Business,Aswan,South,2022/07/03,,Active
+C01543,Hassan Sayed,Business,Ismailia,East,05-Dec-2022,gmail.com,Active
+C01854,Mariam Hassan,Consumer,Tanta,North,10/04/2024,outlook.com,Inactive
+C02018,Karim Ibrahim,Consumer,Port Said,East,17/05/2023,company.com,Active
+C01411,Hassan Mostafa,Business,Cairo,North,04/11/2022,company.com,Active
+C00442,Farah Amin,Student,Aswan,South,18/05/2023,yahoo.com,Active
+C01442,Khaled Samir,Professional,New Cairo,Central,05/02/2022,outlook.com,Active
+C00781,Karim Kamal,Consumer,Aswan,South,01-Nov-2024,gmail.com,Active
+C01508,Adam Amin ,Professional,Tanta,NORTH,20/11/2024,gmail.com,Active
+C01799,Youssef Hassan,Professional,Aswan,South,04/26/2023,company.com,Active
+C01814,Nour Ali,Business,Ismailia,East,28/09/2024,yahoo.com,Active
+C00825,OMAR IBRAHIM,Professional,Tanta,North,12/11/2022,outlook.com,Active
+C02007,Nour Ibrahim,Business,6th of October,Central,09-Nov-2022,gmail.com,Active
+C00633,Hassan Hassan,Business,Minya,West,11/27/2022,gmail.com,Active
+C01650,NADA IBRAHIM,Consumer,Suez,East,2023/10/28,yahoo.com,Active
+C00724,Farah Fathy,Professional,Beni Suef,West,2022/02/11,company.com,Active
+C01233,KARIM MAHMOUD,Professional,Cairo,North,2022-12-17,gmail.com,Active
+C02173,Karim Mahmoud,Student,Suez,East,2024/01/04,gmail.com,Active
+C01642,Farah Tarek,Business,Fayoum,West,06/23/2023,outlook.com,Active
+C01206,Laila Amin,Student,6th of October,Central,02/20/2024,gmail.com,Active
+C01221,Laila Kamal,Student,Fayoum,West,12/27/2022,company.com,Active
+C00124,Omar Kamal,Consumer,Fayoum,West,23/07/2023,outlook.com,Active
+C00263,Youssef Tarek,Student,Aswan,South,2022-09-19,yahoo.com,Active
+C00369,Laila Fathy,Consumer,Alexandria,North,2024/04/27,,Active
+C01433,Karim Amin,Business,New Cairo,Central,01-Mar-2022,outlook.com,Active
+C01878,Salma Mostafa,Consumer,Aswan,South,2023/10/19,yahoo.com,Active
+C01009,Nour Ali,Business,Cairo,North,20-Jul-2024,company.com,Active
+C00484,Karim Amin,Business,Minya,West,04/15/2022,company.com,Active
+C01507,Laila Samir,Student,Minya,West,2023/07/18,yahoo.com,Active
+C00632,Nada Nabil,Consumer,Fayoum,West,2024-12-29,company.com,Active
+C00217,Omar Nabil,Consumer,Cairo,North,19-Dec-2022,outlook.com,Active
+C00826,Omar Hassan,Business,Luxor,South,2022-03-12,yahoo.com,Active
+C01227,Laila Mostafa ,Consumer,Cairo,Central,02/11/2024,company.com,Dormant
+C00538,Mariam Fathy,Student,Luxor,South,04/08/2024,outlook.com,Active
+C00680,Karim Samir,Professional,Ismailia,East,13-Jan-2024,company.com,Active
+C00495,Laila Kamal,Consumer,Luxor,South,2022-04-09,company.com,Active
+C01364,Farah Sayed,Professional,Beni Suef,West,17-Nov-2022,gmail.com,Active
+C00074,Hassan Amin,Professional,Minya,West,08-Jun-2022,company.com,Active
+C02074,Mariam Tarek,Student,Giza,South,2022/07/27,yahoo.com,Active
+C01935,Khaled Mahmoud,Consumer,Cairo,North,29-Nov-2022,yahoo.com,Active
+C02175, Nour Ali,Business,Beni Suef,West,25-Aug-2022,outlook.com,Active
+C01332,Youssef Fathy,Business,Aswan,South,29/03/2024,gmail.com,Inactive
+C00899,nour fathy,Consumer,Fayoum,West,09/05/2023,outlook.com,Active
+C02055,Nour Mostafa,Business,Tanta,North,13-Jan-2024,outlook.com,Active
+C00581,Youssef Mahmoud,Business,Ismailia,East,31-Jan-2025,outlook.com,Active
+C00032,Omar Fathy,Professional,6th of October,Central,06/10/2022,gmail.com,Active
+C02195,Hassan Amin,Student,6th of October,Central,2023/05/15,outlook.com,Active
+C01384,Adam Samir,Student,Ismailia,East,08/11/2022,company.com,Active
+C01907,Mariam Mostafa,Student,Port Said,East,2023/04/25,gmail.com,Active
+C00698,Khaled Mahmoud,Professional,6th of October,Central,2023/03/13,yahoo.com,Active
+C01171,Hassan Fathy,Consumer,Luxor,South,2023/08/06,,Inactive
+C00984,Salma Sayed,Business,Ismailia,East,2025-02-24,outlook.com,Active
+C01995,Laila Kamal,Consumer,Ismailia,East,07-Sep-2022,yahoo.com,Active
+C00604,Omar Nabil,Professional, Alexandria ,North,2023/10/19,gmail.com,Active
+C00305,Youssef Mostafa,Consumer,Alexandria,North,14/03/2022,outlook.com,Active
+C02094,Hassan Tarek,Business,Cairo,North,2025/02/08,yahoo.com,Active
+C00205,Youssef Tarek,Business,Ismailia,East,14-Jun-2023,company.com,Inactive
+C01366,Nada Ali,Professional,Luxor,South,07/22/2024,yahoo.com,Active
+C00470,Mariam Tarek,Student,Fayoum,West,14/12/2024,gmail.com,Active
+C01389,Farah Amin,Consumer,Minya,West,30-Mar-2023,outlook.com,Active
+C01691,Omar Kamal,Consumer,Aswan,South,2022/08/18,,Active
+C00017,Hassan Ibrahim ,Student,Beni Suef,West,04/04/2024,company.com,Dormant
+C01086,Karim Mostafa,Business,Luxor,South,2022/05/10,outlook.com,Active
+C00755,Farah Nabil,Business,LUXOR,South,2022-09-22,yahoo.com,Active
+C01618,Nada Samir,Professional,Suez,east,02/29/2024,gmail.com,Active
+C00269,Mariam Hassan,Consumer,6th of October,Central,2022-05-18,gmail.com,Active
+C01343,Khaled Kamal,Professional,New Cairo,Central,22-Oct-2023,yahoo.com,Active
+C00737,Youssef Kamal,Student,Cairo,Central,2022/05/28,yahoo.com,Active
+C00005,Mariam Ibrahim ,Consumer,Cairo,Central,19-Jan-2025,gmail.com,Inactive
+C00872,Farah Mostafa,Business,Alexandria,North,04/02/2024,gmail.com,Active
+C01779,Omar Samir,Business,tanta,North,27-Nov-2023,company.com,Active
+C01764,Omar Ibrahim,Consumer,Suez,East,14/10/2022,company.com,Active
+C00378,Omar Ali,Professional,New Cairo,Central,23-Sep-2023,,Active
+C01098,Laila Mostafa,Professional,Alexandria,North,28/10/2023,company.com,Active
+C01164,Hassan Ali,Consumer,New Cairo,Central,06-Dec-2023,gmail.com,Dormant
+C01690,Farah Sayed,Professional,Fayoum,West,01/05/2024,company.com,Active
+C01610,Karim Sayed,Business,Alexandria,North,2024/10/31,yahoo.com,Active
+C00606,Karim Kamal,Consumer,Minya,West,07/02/2023,outlook.com,Active
+C01481,Youssef Ali,Professional,New Cairo,Central,01/08/2023,gmail.com,Active
+C00344,Karim Ibrahim,Student,Aswan,South,14-Dec-2022,,Active
+C00794,Adam Sayed,Consumer,port said,East,15/08/2022,gmail.com,Active
+C01213,Laila Nabil,Business,6th of October,Central,30-Jun-2023,outlook.com,Active
+C01438,Youssef Amin,Student,Aswan,South,18/09/2024,,Active
+C01301,Laila Ibrahim,Professional,Luxor,South,08/07/2024,gmail.com,Active
+C01634,Mariam Hassan,Professional,Cairo,Central,07/22/2024,outlook.com,Active
+C02200,Farah Ibrahim,Student,fayoum,West,08/05/2024,company.com,Active
+C00416,Nada Kamal,Business,Fayoum,West,04/11/2022,gmail.com,Active
+C01443,Salma Fathy,Student,CAIRO,North,21/10/2023,outlook.com,Active
+C00913, Karim Mostafa,Student,Luxor,South,2023-05-08,gmail.com,Active
+C01594,Nada Ibrahim,Consumer,6th of October,Central,16-May-2022,gmail.com,Active
+C01435,Nada Mahmoud,Business,Cairo,Central,2022/06/09,gmail.com,Active
+C00471,Omar Mahmoud,Student,6th of October,Central,12/10/2023,gmail.com,Active
+C01077,Karim Mostafa,Consumer,Luxor,South,19/01/2024,yahoo.com,Active
+C01892,Khaled Kamal,Professional,Port Said,East,2024/08/11,outlook.com,Active
+C02059,Nour Samir,Business,Minya,West,03/14/2024,company.com,Inactive
+C02012,Salma Samir,Student,Suez,East,06-May-2022,company.com,Active
+C00944,Farah Mostafa,Student,Cairo,North,23-May-2024,gmail.com,Active
+C00619,Adam Ali,Professional,Alexandria,North,08-Jun-2024,gmail.com,Active
+C00493,  Youssef Mahmoud  ,Professional,Beni Suef,West,2023-02-07,gmail.com,Active
+C01472,  Nour Hassan  ,Consumer,Luxor,South,05/11/2023,yahoo.com,Active
+C00867,Khaled Samir,Student,Aswan,South,2023/12/09,outlook.com,Active
+C00946,Nada Mostafa,Business,Suez,East,08-Jul-2024,company.com,Active
+C01181,Nour Fathy,Consumer, 6th of October ,Central,01-Jun-2023,outlook.com,Active
+C01753,Mariam Ali,Business,Aswan,South,17-Aug-2022,outlook.com,Active
+C01522,Mariam Samir,Business,6th of October,Central,30/08/2022,gmail.com,Active
+C01310,Youssef Hassan,Business,Ismailia,East,2024-05-01,company.com,Active
+C00469,Mariam Mahmoud,Professional,Alexandria,North,13-Mar-2023,gmail.com,Dormant
+C02167,Khaled Ibrahim,Student,Giza,South,2022/01/22,company.com,Active
+C02163,Salma Mahmoud,Student,Cairo,north,03/02/2024,gmail.com,Active
+C00544,Karim Amin,Student,CAIRO,North,11/09/2023,company.com,Active
+C01478,Omar Nabil,Consumer,Giza,South,05/07/2023,yahoo.com,Active
+C01238,Mariam Mostafa,Consumer,Fayoum,West,07-Aug-2022,gmail.com,Active
+C01830,Farah Ali,Professional,Ismailia,East,03/06/2022,company.com,Active
+C01502,Nada Fathy,Business,minya,West,02-Nov-2024,outlook.com,Active
+C00583,Adam Amin,Business,Alexandria,North,13/02/2022,,Active
+C01406,Farah Samir,Professional,Luxor,South,2024-04-29,yahoo.com,Active
+C01526,Mariam Mostafa,Student,Suez,East,19-Aug-2023,yahoo.com,Active
+C01951,Laila Mostafa,Consumer,Suez,East,06/08/2024,gmail.com,Active
+C01746,Hassan Sayed ,Student,Aswan,South,2024-05-01,outlook.com,Active
+C00211,Youssef Sayed,Student,Suez,East,2023-08-23,gmail.com,Active
+C01685,laila hassan,Consumer,Ismailia,East,2022-12-20,gmail.com,Active
+C00014,Khaled Nabil,Professional,Minya,West,11/28/2022,yahoo.com,Active
+C01575,Nour Tarek,Business,Fayoum,West,04/12/2025,outlook.com,Active
+C01720,Nada Kamal,Student,6th of October,Central,2024-01-06,gmail.com,Active
+C01457,Nada Kamal,Professional,Ismailia,East,01/01/2023,company.com,Active
+C02088,Omar Ibrahim,Student,Cairo,North,12/05/2023,,Active
+C00422,Mariam Ibrahim,Professional,Cairo,North,2024-12-30,yahoo.com,Active
+C01777,Nour Fathy,Professional,PORT SAID,East,13/07/2022,yahoo.com,Active
+C01664,Karim Mostafa,Professional,Alexandria,North,11-Mar-2023,company.com,Active
+C01033,Farah Mahmoud,Business,Tanta,North,23-Nov-2022,gmail.com,Active
+C00524,Nada Mostafa,Consumer,Luxor,South,2024/06/26,outlook.com,Dormant
+C01991,Hassan Fathy,Business,Aswan,South,2023/02/06,company.com,Active
+C00939,Farah Mostafa,Professional,Ismailia,East,22-Nov-2023,yahoo.com,Active
+C01143,Karim Mahmoud,Business,New Cairo,Central,07-May-2022,yahoo.com,Active
+C00902,Youssef Ibrahim,Business,Alexandria,North,2024/06/06,yahoo.com,Active
+C02005,Laila Hassan ,Consumer,Fayoum,West,19/08/2024,outlook.com,Active
+C01037, Hassan Tarek,Professional,Aswan,South,09/03/2023,company.com,Active
+C01147,  Adam Hassan  ,Business,6th of October,Central,2024/02/14,gmail.com,Active
+C01106,Salma Tarek,Consumer,Luxor,South,2022-05-24,outlook.com,Active
+C00447,Hassan Ali,Business,Port Said,East,02/07/2025,outlook.com,Active
+C01538,Karim Kamal,Professional,Alexandria,North,2024-01-19,gmail.com,Active
+C01795,Mariam Mostafa,Consumer,Giza,south,02-Mar-2025,yahoo.com,Active
+C00152,Mariam Ali,Consumer,Minya,West,09/26/2023,yahoo.com,Active
+C01322,Salma Sayed,Professional,Suez,East,15/08/2024,outlook.com,Active
+C01709,Khaled Samir,Business,Suez,East,03/30/2024,yahoo.com,Active
+C01504,Nour Mahmoud,Consumer,6th of October,Central,04/02/2022,company.com,Active
+C01729,salma ali,Consumer,Tanta,North,2023-07-15,company.com,Active
+C00926,Khaled Kamal,Student,Ismailia,East,2023-12-03,gmail.com,Active
+C00536,Khaled Kamal,Professional,Minya,West,05/06/2022,gmail.com,Dormant
+C02161,Nada Ibrahim,Professional, Minya ,West,12/09/2023,company.com,Active
+C01787,Mariam Mostafa,Business,6th of October,Central,22-Mar-2022,yahoo.com,Active
+C01957,Laila Amin,Consumer,Fayoum,West,2022/03/12,yahoo.com,Active
+C00886,Youssef Samir,Professional,Giza,South,02-Jan-2023,gmail.com,Active
+C01758,Laila Tarek,Consumer,New Cairo,Central,2023/05/21,gmail.com,Active
+C00257,nour mostafa,Consumer,Giza,South,2022-05-07,outlook.com,Active
+C01020,YOUSSEF ALI,Business, Luxor ,South,2022-07-11,gmail.com,Active
+C01802,Laila Fathy,Professional,Giza,South,15/05/2023,gmail.com,Active
+C01763,Salma Kamal,Business,Giza,South,08/18/2024,gmail.com,Active
+C00816,Karim Nabil,Consumer,Suez,East,2025-01-27,outlook.com,Active
+C00300,Youssef Mahmoud,Business,New Cairo,Central,2024/10/28,outlook.com,Active
+C00402,Nada Hassan,Professional,Ismailia,East,2025-03-09,outlook.com,Active
+C00176,Nour Fathy,Business,Minya,West,04/18/2023,yahoo.com,Active
+C01409,Nada Hassan,Professional,Alexandria,North,2022/04/21,gmail.com,Active
+C02179,Adam Nabil,Consumer,6th of October,Central,04/07/2022,gmail.com,Active
+C01920,Youssef Kamal,Student,6th of October,Central,02-Oct-2022,,Active
+C00194,Youssef Mostafa,Business, Minya ,West,17/09/2024,outlook.com,Active
+C02164,Nour Hassan,Student,Tanta,North,2022-06-14,gmail.com,Active
+C00502,MARIAM IBRAHIM,Student,Minya,West,2023-09-20,company.com,Active
+C00587,Mariam Sayed,Professional,Port Said,East,2022-02-04,gmail.com,Active
+C00225,omar mahmoud,Business,New Cairo,Central,2023-06-27,yahoo.com,Active
+C00522,Karim Tarek,Student,Cairo,CENTRAL,22/08/2022,gmail.com,Active
+C01999,Hassan Samir,Business,Fayoum,West,2024-04-01,company.com,Active
+C01978,Omar Mostafa,Student,Ismailia,East,08/04/2022,company.com,Active
+C00274,Salma Nabil,Business,Giza,South,2022/03/02,gmail.com,Inactive
+C01168,Nada Mahmoud,Professional,Fayoum,West,2024-02-14,yahoo.com,Active
+C00528,Mariam Ali,Student,Ismailia,East,21/07/2024,outlook.com,Active
+C00598,Mariam Mostafa,Business,luxor,South,03/17/2024,gmail.com,Active
+C01350,Khaled Ibrahim,Consumer,Giza,South,09/04/2025,yahoo.com,Active
+C01184,Salma Mostafa,Consumer,Giza,South,2023/01/17,gmail.com,Active
+C01167,Omar Kamal,Student,Luxor,South,2024/02/12,yahoo.com,Inactive
+C00700,Farah Samir,Professional,Alexandria,North,2023/03/08,yahoo.com,Active
+C01044,Hassan Mahmoud,Student,New Cairo,Central,10-Jan-2023,gmail.com,Active
+C01596,Omar Fathy,Professional,Ismailia,East,02-Sep-2023,outlook.com,Active
+C02117,Omar Amin,Student,TANTA,North,30-Jul-2022,outlook.com,Active
+C00180,Laila Ibrahim,Business,NEW CAIRO,Central,23-Oct-2024,company.com,Active
+C00173,Farah Nabil,Consumer,Aswan,South,04/24/2024,yahoo.com,Active
+C00865,Youssef Amin,Consumer,Aswan,South,18-Oct-2022,gmail.com,Active
+C00292,Laila Kamal,Business,Ismailia,East,22-Apr-2024,company.com,Active
+C00730,Adam Ibrahim,Business,Giza,South,26-Jan-2022,outlook.com,Active
+C01349,Khaled Hassan,Consumer,Tanta,North,11/08/2022,gmail.com,Active
+C01780,Omar Kamal,Professional,minya,West,12/06/2023,company.com,Active
+C00888,Hassan Fathy,Professional,Luxor,South,2023-08-23,company.com,Active
+C00635,Nada Tarek,Student,Aswan,SOUTH,26-Jul-2024,company.com,Active
+C01756,Khaled Fathy,Professional,New Cairo,Central,2023/12/03,company.com,Active
+C01706,Hassan Ibrahim,Professional,6th of October,Central,2022/04/21,outlook.com,Active
+C01313,laila ali,Business,Cairo,NORTH,2024-08-28,company.com,Active
+C00444,Nour Fathy,Professional,Luxor,South,2022-08-16,yahoo.com,Active
+C01703,Youssef Samir,Student,Tanta,North,06/02/2022,yahoo.com,Active
+C02178,Laila Nabil,Consumer,6th of October,Central,18/01/2024,outlook.com,Active
+C00391,Youssef Tarek,Consumer,New Cairo,Central,2022/12/13,yahoo.com,Active
+C00273,Nada Samir,Professional,Cairo,central,2022-01-04,company.com,Active
+C00936,Laila Ibrahim,Consumer,Cairo,North,12/09/2024,,Active
+C01287,Khaled Kamal,Student,New Cairo,Central,09/01/2022,yahoo.com,Active
+C01026,Farah Samir,Student,port said,East,08/02/2023,gmail.com,Active
+C02102, Omar Mostafa,Professional,Minya,West,07/11/2022,outlook.com,Active
+C01525,Omar Mahmoud,Student,6th of October,Central,2023-08-24,yahoo.com,Active
+C00007,Mariam Sayed,Professional,SUEZ,East,07-Aug-2023,outlook.com,Dormant
+C01464,Farah Mahmoud,Professional,Cairo,Central,29/06/2022,gmail.com,Active
+C00970,Khaled Mahmoud,Consumer,Giza,South,18-Jan-2023,gmail.com,Active
+C00440,Youssef Ali,Business,Ismailia,East,11/23/2024,company.com,Active
+C00827,Omar Amin,Professional,6th of October,Central,17/03/2022,company.com,Active
+C00645,Karim Sayed,Consumer,Beni Suef,West,08/28/2023,yahoo.com,Active
+C02198,Khaled Sayed,Business,Aswan,South,07/11/2023,yahoo.com,Active
+C01054,Karim Mostafa,Business,Cairo,Central,05/23/2022,company.com,Active
+C01224,Farah Nabil,Consumer,Ismailia,East,19/06/2022,outlook.com,Active
+C02076,  Adam Nabil  ,Student,Beni Suef,West,2023-03-23,yahoo.com,Active
+C01533,Khaled Nabil,Professional,Tanta,North,2022/05/30,outlook.com,Active
+C01663,Farah Ibrahim,Consumer,Beni Suef,West,2022-06-01,outlook.com,Inactive
+C01898,Khaled Ali,Consumer,Fayoum,west,2023-01-22,company.com,Dormant
+C01924,Laila Tarek,Business,Cairo,Central,01/02/2023,outlook.com,Active
+C01158,hassan mahmoud,Professional,Beni Suef,WEST,01/12/2023,gmail.com,Active
+C01649,Omar Kamal,Professional,Suez,East,12-Jul-2022,outlook.com,Active
+C01391,  Nour Ali  ,Student,Aswan,South,22/06/2024,gmail.com,Active
+C01476,Nour Tarek,Professional,cairo,North,03/23/2023,yahoo.com,Active
+C01808,Khaled Samir,Professional,New Cairo,Central,27-Mar-2023,outlook.com,Active
+C00237,Youssef Amin,Consumer,Port Said,East,13-Sep-2023,gmail.com,Active
+C00638,Khaled Amin,Student,Fayoum,West,09-Nov-2022,company.com,Active
+C00620,Khaled Hassan,Student,ismailia,East,04/02/2022,company.com,Active
+C01138,Khaled Hassan,Student,Minya,WEST,2023-10-27,yahoo.com,Active
+C01637,Mariam Fathy,Professional,Aswan,South,2023-05-25,gmail.com,Active
+C00625,Karim Samir,Business,Minya,West,2025-03-27,gmail.com,Active
+C01541,  Laila Kamal  ,Student,6th of October,Central,29-Nov-2023,yahoo.com,Active
+C01382,Karim Amin,Student,Tanta,North,2024/01/31,company.com,Active
+C00333,Salma Hassan,Consumer,Alexandria,North,11-Sep-2023,gmail.com,Active
+C00089,Mariam Sayed,Business,Giza,South,12/12/2022,gmail.com,Dormant
+C01049,Mariam Hassan,Consumer,Alexandria,North,01-May-2023,gmail.com,Active
+C01614,Salma Mahmoud,Business,Port Said,East,2025-02-06,outlook.com,Active
+C01710,Adam Kamal,Student,Luxor,South,2022-02-14,gmail.com,Active
+C00552,Salma Nabil,Business,Tanta,North,17-Oct-2024,yahoo.com,Inactive
+C00954,Mariam Samir,Business,Alexandria,North,01/22/2024,yahoo.com,Active
+C00436,Youssef Fathy,Professional,Aswan,South,2023/11/22,gmail.com,Active
+C00348,Khaled Ali,Consumer, Ismailia ,East,2023-08-02,gmail.com,Active
+C00012,Karim Samir,Consumer,New Cairo,Central,01-Apr-2023,yahoo.com,Active
+C02065,Khaled Fathy,Consumer,Giza,SOUTH,2023-03-20,gmail.com,Active
+C00435,Mariam Hassan,Business,Minya,West,04/12/2022,outlook.com,Active
+C00810,Nour Ali,Student,Minya,West,01/15/2023,company.com,Active
+C01745,Khaled Hassan,Business,Giza,South,26/06/2023,outlook.com,Active
+C01248,Youssef Mahmoud,Professional,6th of October,Central,22/02/2023,company.com,Dormant
+C01160,Hassan Fathy,Consumer,Suez,East,29/07/2022,gmail.com,Active
+C01890,Khaled Nabil,Professional,cairo,North,2023-10-02,yahoo.com,Active
+C02158,Salma Kamal,Professional,Port Said,East,11-Feb-2023,outlook.com,Active
+C00387,Nada Ibrahim,Consumer,6TH OF OCTOBER,Central,04/03/2025,gmail.com,Inactive
+C01960,Laila Amin,Professional,Port Said,East,2022/03/30,outlook.com,Active
+C01668,Salma Mahmoud,Professional,New Cairo,Central,21-Feb-2023,company.com,Active
+C00426,Mariam Sayed,Consumer,Luxor,South,01-Apr-2024,outlook.com,Active
+C01252,Salma Ali,Professional,6th of October,Central,2022/07/08,outlook.com,Active
+C01188,Youssef Ibrahim,Professional,Giza,South,01/07/2023,,Dormant
+C00977,Laila Fathy,Student,Fayoum,West,2022/05/18,outlook.com,Active
+C01264,Nada Fathy,Professional,Alexandria,North,07-May-2023,gmail.com,Active
+C01235,Adam Samir,Consumer,Minya,West,2022-04-08,company.com,Active
+C01791,Karim Samir,Consumer,NEW CAIRO,Central,2023-07-27,gmail.com,Active
+C01440,Mariam Ibrahim,Student,Cairo,North,03/07/2022,gmail.com,Active
+C01117,Farah Fathy,Student,Minya,West,05/16/2023,yahoo.com,Active
+C00933,Farah Mahmoud,Student,Alexandria,North,05/03/2025,outlook.com,Active
+C01638,Khaled Fathy,Consumer,New Cairo,Central,04/26/2024,company.com,Active
+C00046,Youssef Tarek,Professional,Alexandria,North,2023-08-13,company.com,Active
+C00924,Khaled Hassan,Business,Alexandria,North,10-Jan-2023,yahoo.com,Active
+C00363,Khaled Ali,Business,Fayoum,West,2022-07-13,outlook.com,Inactive
+C00443,Khaled Kamal,Consumer,Cairo,Central,01/02/2023,gmail.com,Active
+C02039,Karim Samir,Professional,Ismailia,East,2023/12/03,company.com,Active
+C01057,Laila Kamal,Student,6th of October,Central,04/02/2023,outlook.com,Active
+C00480,Youssef Samir,Professional,6th of October,Central,2024-03-03,outlook.com,Active
+C01870,Salma Amin,Professional,FAYOUM,West,2024/05/26,yahoo.com,Active
+C01833,Farah Tarek,Professional,Tanta,North,10/12/2024,yahoo.com,Dormant
+C00772,Nada Sayed,Consumer,Cairo,North,02/29/2024,outlook.com,Active
+C01674,Laila Fathy,Consumer,Beni Suef,West,16/03/2024,company.com,Active
+C01648,Farah Mahmoud,Student,Giza,South,17-Apr-2022,yahoo.com,Active
+C00329,Adam Hassan,Consumer,Tanta,North,2022/11/21,gmail.com,Active
+C01351,Nour Sayed,Student,Port Said,East,12/10/2023,company.com,Inactive
+C00651,Farah Samir,Business,Ismailia,East,13/09/2022,outlook.com,Active
+C00208,Farah Hassan,Student,cairo,Central,2023/09/13,outlook.com,Active
+C00088,Laila Kamal,Professional,Tanta,North,2023-05-20,gmail.com,Active
+C01404,Nada Ibrahim,Business,Cairo,North,29-Oct-2022,company.com,Active
+C00820,Youssef Mahmoud,Business,New Cairo,Central,26/05/2022,company.com,Active
+C00987,Omar Kamal,Student,Suez,East,16/05/2022,yahoo.com,Active
+C02031,Adam Samir,Professional,Minya,West,2022-04-01,gmail.com,Active
+C01871,Farah Kamal,Consumer,6th of october,Central,2023/04/06,outlook.com,Active
+C00289,OMAR MOSTAFA,Professional,Alexandria,North,14-Jun-2024,outlook.com,Active
+C01356,Adam Samir,Student,Cairo,North,31-May-2023,yahoo.com,Active
+C00291,Khaled Ibrahim,Business,Minya,West,09/16/2024,company.com,Active
+C01734,Laila Nabil,Business,Alexandria,North,17-May-2024,outlook.com,Active
+C00432, Salma Mostafa,Student,New Cairo,Central,03/01/2022,yahoo.com,Active
+C00934,Karim Samir,Student,Fayoum,West,04/23/2023,yahoo.com,Active
+C00624,Omar Nabil,Business,Cairo,North,23/08/2022,company.com,Active
+C01314,Hassan Nabil,Consumer,Cairo,Central,2023/02/28,company.com,Active
+C00256,Laila Sayed,Professional,6th of October,Central,2024/05/07,company.com,Active
+C01359,Youssef Samir,Business,Minya,West,2023/02/08,gmail.com,Active
+C01120,Laila Ali,Consumer,Cairo,North,16/01/2022,outlook.com,Active
+C01591,Nada Hassan,Student,Beni Suef,West,01-Mar-2023,outlook.com,Active
+C01540,Salma Hassan,Student,Tanta,North,2022-07-28,company.com,Active
+C01730,Youssef Fathy,Consumer,Fayoum,West,03-Feb-2022,outlook.com,Active
+C02027,Salma Mahmoud,Consumer,Cairo,North,21-Dec-2022,gmail.com,Active
+C00662,Khaled Fathy,Student,New Cairo,Central,14-Oct-2023,yahoo.com,Active
+C00658,Nada Samir,Consumer,6th of October,Central,01-Sep-2022,gmail.com,Active
+C00887,Mariam Ibrahim,Business,Tanta,North,2024/02/01,outlook.com,Active
+C01498,Nour Mahmoud,Consumer,New Cairo,Central,2022-10-07,company.com,Active
+C01270,HASSAN KAMAL,Consumer,Minya,West,02/13/2022,company.com,Active
+C01195,Omar Fathy,Professional,Fayoum,West,2022/04/20,company.com,Active
+C00643,Mariam Hassan,Business,Alexandria,North,2022-01-21,outlook.com,Active
+C00992,Mariam Mostafa ,Business,Luxor,South,21-Feb-2022,yahoo.com,Active
+C01177,Nada Sayed,Consumer,Port Said,East,06/10/2022,company.com,Active
+C00857,Youssef Mostafa,Student,Alexandria,North,05-Oct-2023,gmail.com,Active
+C01643,Mariam Hassan,Consumer,Luxor,South,25/11/2023,company.com,Active
+C01462,Farah Samir,Student,Suez,East,12/22/2024,outlook.com,Active
+C00218,Salma Hassan,Consumer,Luxor,South,2024-04-08,gmail.com,Dormant
+C01315,Farah Mostafa,Student,Port Said,East,01/30/2025,,Active
+C01658,Farah Fathy,Student,Alexandria,North,2024/01/14,outlook.com,Active
+C01693,Nada Tarek,Business,Luxor,South,22-Aug-2022,gmail.com,Active
+C00450,Farah Amin,Student,Beni Suef,West,2023-03-18,outlook.com,Active
+C00947,Mariam Mahmoud,Professional,Suez,East,10/27/2022,company.com,Active
+C02087,Farah Mahmoud,Student,Giza,South,26-Mar-2022,gmail.com,Active
+C01659,Youssef Mostafa,Professional,Giza,South,04-Dec-2023,outlook.com,Active
+C01010,Omar Samir,Consumer,Suez,East,2024-09-18,yahoo.com,Active
+C00861,Karim Mostafa,Consumer,Aswan,south,16/09/2022,yahoo.com,Active
+C00229,Mariam Sayed,Business,Suez,East,2022-10-12,gmail.com,Active
+C00382,Nour Mahmoud,Professional,Port Said,East,2023-06-04,,Inactive
+C00190,Laila Amin,Business,6th of October,Central,2025-01-13,gmail.com,Active
+C00805,Adam Sayed,Student,Beni Suef,West,05/08/2022,outlook.com,Dormant
+C01396,Nada Amin,Student,6th of October,Central,05-Mar-2022,yahoo.com,Active
+C01768,Nour Samir,Professional,Cairo,North,15-Jul-2024,gmail.com,Active
+C00341,Nada Hassan,Consumer,Cairo,North,2023-04-05,outlook.com,Active
+C00473,Omar Ali,Professional,Alexandria,North,02/20/2022,company.com,Active
+C01592,mariam mostafa,Professional,New Cairo,Central,2022-11-24,gmail.com,Active
+C01851,Mariam Mahmoud,Student,Fayoum,West,01-Mar-2024,outlook.com,Active
+C01207,Nada Ali,Consumer,Tanta,North,14-Dec-2022,company.com,Active
+C02030,Laila Mostafa,Business,Cairo,North,03-Jan-2023,yahoo.com,Active
+C01977,Nour Samir,Consumer,Tanta,North,01/17/2022,company.com,Active
+C01654,Youssef Ali,Professional,Aswan,South,06/10/2024,outlook.com,Active
+C01080,Omar Ali,Business,6th of October,Central,15-May-2024,yahoo.com,Active
+C01952,Youssef Tarek,Professional,Beni Suef,West,2023-11-01,outlook.com,Active
+C01986,Khaled Amin,Consumer,Ismailia,East,2024/03/21,company.com,Active
+C02003,Hassan Mahmoud ,Business,Giza,South,10/31/2022,outlook.com,Active
+C01402,Hassan Mostafa,Consumer,Suez,East,2022/03/09,yahoo.com,Active
+C01439,Youssef Ali,Business,MINYA,West,21/06/2024,company.com,Active
+C02023,Nada Ibrahim,Business,New Cairo,Central,31-Oct-2023,gmail.com,Active
+C01361,Laila Mahmoud,Consumer,Luxor,South,2023-12-31,yahoo.com,Active
+C01811,Hassan Ibrahim,Professional,Alexandria,North,2022/11/30,company.com,Active
+C01008,Hassan Samir,Student,Aswan,South,05-Apr-2023,gmail.com,Active
+C00800,Laila Amin,Student,Minya,WEST,22-Jan-2022,company.com,Active
+C01827,Nour Mostafa,Business,Port Said,East,03-Jan-2022,outlook.com,Active
+C00058,Karim Hassan,Professional,Alexandria,North,21-Jul-2023,,Active
+C01095,Omar Ali,Consumer,Cairo,North,2024/07/24,company.com,Active
+C02183,Mariam Mostafa,Business,6th of october,Central,2024/03/21,gmail.com,Active
+C00905,Hassan Kamal,Student,Cairo,Central,2024-10-24,yahoo.com,Active
+C01170,Karim Nabil,Consumer,Alexandria,North,01/16/2022,company.com,Active
+C00815,Salma Hassan,Consumer,Alexandria,North,2024/05/31,gmail.com,Active
+C01298,Mariam Tarek,Professional,Beni Suef,West,04-Nov-2023,company.com,Active
+C00895,Karim Samir,Professional,New Cairo,Central,2023-08-29,company.com,Active
+C00830,Khaled Kamal,Business,Ismailia,East,17/01/2023,yahoo.com,Active
+C00254,Mariam Sayed,Professional,Beni Suef,West,19/04/2023,outlook.com,Active
+C01497,Youssef Ibrahim,Professional,Luxor,South,2022/08/18,yahoo.com,Active
+C01279,Youssef Ibrahim,Professional,6th of October,Central,02-Mar-2022,yahoo.com,Active
+C00107,Youssef Ibrahim,Business,Port Said,East,2023/10/13,gmail.com,Active
+C01079,Mariam Amin,Consumer,Minya,West,02/27/2025,,Active
+C00380,Mariam Mostafa,Professional,Minya,West,19-Jul-2023,yahoo.com,Active
+C00609,Mariam Tarek,Professional,Minya,West,05/20/2022,gmail.com,Active
+C00519,Hassan Samir,Professional,Cairo,North,05/27/2024,company.com,Active
+C01603,Nada Ibrahim,Professional,Luxor,South,2025-02-09,outlook.com,Inactive
+C00603,Nour Nabil,Professional,New Cairo,Central,2022/08/26,company.com,Inactive
+C00866,farah tarek,Consumer,Cairo,Central,11-Nov-2023,outlook.com,Active
+C01914,Laila Sayed,Student,Giza,South,10/14/2023,yahoo.com,Active
+C01415,KARIM NABIL,Business,Port Said,East,02/03/2022,outlook.com,Active
+C00771,Nada Mostafa,Consumer,New Cairo,Central,11/29/2023,outlook.com,Inactive
+C01757,Omar Samir,Business,Giza,South,17-Sep-2022,gmail.com,Active
+C01348,Khaled Sayed,Professional,Ismailia,East,03/04/2023,outlook.com,Active
+C00187,Khaled Kamal,Business,Alexandria,North,2023/10/31,outlook.com,Active
+C01306, Farah Mahmoud,Business,New Cairo,Central,20/06/2022,outlook.com,Active
+C02108,Nour Fathy,Business,Minya,West,2022-06-28,outlook.com,Active
+C00597,Hassan Tarek,Business,beni suef,West,2022/12/09,yahoo.com,Active
+C00916,Nada Mahmoud,Student,Fayoum,West,2023/12/25,yahoo.com,Active
+C00505,Laila Ibrahim,Student,Cairo,Central,03/04/2023,company.com,Active
+C01423,Karim Sayed,Business,Luxor,South,30/12/2024,outlook.com,Active
+C00404,Karim Nabil,Professional,Aswan,South,10/10/2024,yahoo.com,Active
+C00558,Laila Samir,Consumer,Minya,West,2024-11-26,yahoo.com,Active
+C00517,Mariam Mostafa,Student,Port Said,East,09/08/2023,company.com,Active
+C01082,Youssef Nabil,Student,Beni Suef,West,02-Jul-2024,company.com,Active
+C01205,Omar Hassan,Business,Beni Suef,west,15/11/2024,gmail.com,Inactive
+C01114,Youssef Mostafa,Business,Fayoum,West,05-Sep-2024,outlook.com,Active
+C00287,Hassan Nabil,Professional,Aswan,South,2023/10/11,gmail.com,Active
+C01651,Farah Amin,Consumer,Beni Suef,West,08/02/2024,outlook.com,Active
+C01560,Omar Amin,Student,Tanta,North,20/08/2023,yahoo.com,Active
+C01071,Adam Ibrahim,Professional,Giza,South,17/03/2025,yahoo.com,Active
+C00423,Omar Fathy,Business,Cairo,Central,2022/06/19,gmail.com,Active
+C01000,Khaled Hassan ,Consumer,Cairo,North,16/06/2022,yahoo.com,Active
+C01266,Karim Samir,Student,Minya,West,11/30/2023,yahoo.com,Active
+C00995,Khaled Samir,Business,Cairo,Central,01/08/2023,company.com,Active
+C00062,Farah Hassan,Business,New Cairo,Central,2023-03-12,yahoo.com,Active
+C01616,Nour Ibrahim,Professional,Luxor,South,2024/07/03,outlook.com,Active
+C00353,Adam Nabil,Consumer,New Cairo,CENTRAL,2024-11-13,yahoo.com,Dormant
+C01975,Youssef Kamal,Consumer,Aswan,South,2025/02/24,gmail.com,Active
+C00446,Youssef Mahmoud,Business,Port Said,East,19/07/2024,company.com,Active
+C02016,Nada Sayed,Consumer,Suez,East,19/04/2023,outlook.com,Active
+C01578,Nada Amin,Professional,6th of October,Central,02/26/2025,gmail.com,Active
+C01554,Salma Tarek,Professional,Cairo,Central,2024-08-30,,Active
+C00791,Nour Tarek,Professional,Minya,West,08/11/2023,outlook.com,Active
+C00268,Adam Kamal,Professional,Alexandria,North,25/12/2023,outlook.com,Active
+C02083,Laila Hassan,Consumer,Aswan,South,2022/04/10,gmail.com,Active
+C01483,Hassan Nabil,Consumer,Giza,South,04/23/2024,company.com,Active
+C00144,Nada Samir,Professional,Beni Suef,West,22-Jul-2022,,Active
+C00518,Nour Mahmoud,Student,Alexandria,North,2022/06/24,outlook.com,Active
+C00114,Adam Kamal,Business, Giza ,South,05/13/2022,yahoo.com,Active
+C02136,Nour Sayed,Consumer,LUXOR,South,14-Nov-2024,yahoo.com,Active
+C01296,Nour Samir,Business,Suez,East,01/02/2023,company.com,Dormant
+C00965,Mariam Fathy,Student,Cairo,Central,2022/12/03,company.com,Active
+C00903,Nour Fathy,Consumer,Luxor,South,21-Jun-2023,outlook.com,Dormant
+C00818,Salma Mostafa,Student,Cairo,North,10/31/2022,company.com,Active
+C00318,Laila Mahmoud,Student,New Cairo,Central,12/31/2022,yahoo.com,Active
+C00357,Youssef Hassan,Business,Tanta,North,17/08/2024,company.com,Active
+C01162,Youssef Mahmoud,Consumer,Aswan,South,01-Jun-2023,outlook.com,Active
+C00989,Youssef Hassan,Student,Cairo,Central,2024/08/06,outlook.com,Active
+C00578,Hassan Samir,Consumer,Tanta,North,2022/03/04,company.com,Active
+C01928, Adam Tarek,Consumer,Port Said,East,2022-12-27,yahoo.com,Active
+C01334,Nada Ali,Professional,Aswan,South,28/09/2023,company.com,Active
+C01262,Nada Samir,Professional,Beni Suef,West,07-Nov-2023,gmail.com,Active
+C00309,Salma Amin,Professional,Port Said,East,2023-09-13,company.com,Active
+C01271,Hassan Amin,Consumer,Cairo,North,12/08/2022,outlook.com,Active
+C01093,Nour Samir,Student,Beni Suef,West,04/24/2023,yahoo.com,Active
+C01410,Karim Hassan,Business,Minya,West,2024-12-17,yahoo.com,Active
+C01877,Hassan Nabil,Student,Giza,South,2024/05/24,outlook.com,Active
+C01879,Nada Mahmoud,Professional,Ismailia,East,10/26/2023,gmail.com,Active
+C01065,Laila Kamal,Business,Suez,East,29/10/2022,company.com,Active
+C00727,Nour Sayed,Consumer,Beni Suef,West,12/04/2025,company.com,Active
+C00153,Mariam Ibrahim,Professional,Fayoum,West,2024-02-11,outlook.com,Active
+C00033,Nour Amin,Consumer,Ismailia,East,01/02/2022,company.com,Active
+C01150,Omar Fathy,Business,Beni Suef,West,16/03/2022,gmail.com,Active
+C00215,Karim Ali,Business,6th of October,Central,05/08/2022,outlook.com,Active
+C00908,Nour Ibrahim,Professional,Giza,South,11/16/2024,company.com,Active
+C02022,Mariam Sayed,Professional,Aswan,South,21/03/2022,yahoo.com,Active
+C00420,Farah Ali,Professional,Tanta,North,2023/07/03,gmail.com,Active
+C02154,Mariam Mahmoud,Business,Suez,East,2024-03-20,company.com,Inactive
+C02081,Laila Tarek,Professional,Ismailia,East,07/07/2024,company.com,Active
+C01608,Nour Amin ,Business,Giza,South,2022/10/03,yahoo.com,Active
+C00982,Omar Samir,Professional,Beni Suef,West,2022/04/01,company.com,Active
+C02053,Laila Tarek,Professional, Cairo ,Central,2024-08-10,gmail.com,Active
+C02079,Adam Ali,Professional,Alexandria,North,2024/02/14,company.com,Active
+C01182,Karim Mostafa,Student, Giza ,South,06/07/2022,yahoo.com,Active
+C00023,Nada Mostafa,Business,Giza,South,05/08/2023,yahoo.com,Active
+C00475,Laila Ibrahim,Consumer,Luxor,South,08/02/2025,gmail.com,Active
+C00546,Khaled Kamal,Professional,Minya,West,06/23/2023,yahoo.com,Active
+C01372,Mariam Sayed,Consumer,Cairo,Central,2024/08/28,yahoo.com,Active
+C01740,Hassan Hassan,Business,Luxor,South,19-Dec-2022,company.com,Inactive
+C02071,Nour Fathy,Consumer,Alexandria,North,2024-09-15,company.com,Active
+C00911,Nada Hassan,Business,ismailia,East,01-Mar-2022,outlook.com,Active
+C01939,Omar Mostafa,Student,Aswan,South,2024/03/22,yahoo.com,Active
+C00061,Youssef Tarek,Professional,port said,East,27-May-2024,company.com,Active
+C01326,Karim Ibrahim,Consumer,Giza,South,2023-03-28,yahoo.com,Active
+C00283,Karim Ibrahim,Business,Aswan,South,2024/10/30,gmail.com,Active
+C02019,Nada Tarek,Consumer,6th of October,Central,01/08/2024,yahoo.com,Active
+C01989,Salma Mahmoud,Consumer,Port Said,East,28/03/2023,outlook.com,Dormant
+C00602,Nada Kamal,Consumer,Alexandria,North,25-Jun-2023,company.com,Active
+C01471,Mariam Tarek,Consumer,Luxor,South,02/13/2023,gmail.com,Active
+C00383,Nada Sayed,Consumer,Fayoum,West,2024/12/30,company.com,Dormant
+C00312,  Youssef Hassan  ,Consumer,Ismailia,East,2022/04/02,yahoo.com,Active
+C00871,Laila Fathy,Consumer,Luxor,South,01/20/2022,yahoo.com,Active
+C01260,Karim Kamal,Professional,Luxor,South,15/03/2022,company.com,Active
+C01771,Karim Kamal,Consumer,Beni Suef,West,09/25/2023,yahoo.com,Active
+C00464,Omar Nabil,Student,6th of October,Central,24-Jul-2022,outlook.com,Active
+C01140,Youssef Kamal,Student,Suez,East,18/08/2023,company.com,Active
+C00862,Nada Ali,Professional,Tanta,North,04/27/2023,company.com,Active
+C01111,Adam Tarek,Consumer,Ismailia,East,11/04/2023,yahoo.com,Active
+C00134,Khaled Tarek,Professional,Ismailia,East,04/04/2025,outlook.com,Active
+C00403,Mariam Samir,Professional,Suez,East,22-Jul-2023,gmail.com,Active
+C00097,Omar Nabil,Consumer,Cairo,North,2023/02/09,outlook.com,Active
+C02185,Youssef Sayed,Professional,Alexandria,North,09-Oct-2022,yahoo.com,Active
+C01064,Khaled Samir,Consumer,Aswan,South,10/03/2024,,Active
+C01190,Adam Samir,Consumer,Tanta,North,2022-12-25,outlook.com,Active
+C01832,Nour Amin,Business,Ismailia,East,30/12/2022,gmail.com,Active
+C01774,Salma Samir,Business,Port Said,East,2023/03/08,gmail.com,Active
+C00036,Adam Mostafa,Business,6TH OF OCTOBER,Central,21-Sep-2022,outlook.com,Inactive
+C01577,Laila Mahmoud,Professional,minya,West,2024-04-14,yahoo.com,Active
+C00617,Omar Hassan,Student,6th of October,Central,23/08/2022,gmail.com,Active
+C00915,Hassan Samir,Consumer,Cairo,North,2024-05-11,outlook.com,Active
+C00647,Khaled Amin,Business,Fayoum,West,2025/02/10,outlook.com,Active
+C00231,Hassan Hassan,Consumer,Giza,South,12/02/2025,company.com,Active
+C01617,Hassan Samir,Professional,Cairo,North,30/08/2022,gmail.com,Active
+C02153,Laila Ali,Consumer,Tanta,North,09-May-2022,yahoo.com,Active
+C01916,Khaled Ali,Student,Giza,South,2023-08-26,gmail.com,Active
+C00760,Hassan Sayed,Business,Cairo,North,08-Mar-2022,outlook.com,Active
+C00798,Karim Ali,Student,Port Said,East,10/14/2023,outlook.com,Active
+C01229,Mariam Nabil,Consumer,Giza,South,2024-03-26,yahoo.com,Dormant
+C01058,Farah Mahmoud,Student,Minya,West,06/01/2022,company.com,Active
+C01611,Adam Samir,Student,Cairo,Central,09/09/2023,gmail.com,Active
+C00594,Farah Amin,Student,Port Said,East,05/31/2024,company.com,Dormant
+C01006,Nour Ali,Professional,Fayoum,West,24-Dec-2024,outlook.com,Active
+C01695,Adam Kamal,Professional,Ismailia,East,2024/07/26,outlook.com,Active
+C01121,Karim Tarek ,Business,BENI SUEF,West,2022-03-12,gmail.com,Dormant
+C01819,Laila Mahmoud,Professional,Aswan,South,2023-12-31,,Active
+C00087,Omar Amin,Consumer,Tanta,North,06/13/2022,outlook.com,Active
+C01417,Youssef Hassan,Professional,New Cairo,central,23-Oct-2023,company.com,Active
+C00004,Adam Kamal,Student,TANTA,North,29/01/2022,yahoo.com,Active
+C02062,Nada Mostafa,Consumer,6th of October,CENTRAL,10/10/2024,yahoo.com,Active
+C01053,Karim Sayed,Consumer,Luxor,South,2022-12-28,yahoo.com,Active
+C00083,  Laila Sayed  ,Business,Tanta,North,07/02/2023,company.com,Active
+C00508,Youssef Ali,Business,Aswan,South,2024/05/22,company.com,Active
+C01490,Farah Ali,Professional,New Cairo,Central,2024-04-29,yahoo.com,Active
+C02051,Hassan Tarek,Consumer,cairo,Central,2022/12/17,company.com,Active
+C00241,Karim Tarek,Professional,Cairo,NORTH,14-Jun-2023,gmail.com,Active
+C01545,Omar Samir,Business,Fayoum,West,2024/12/19,gmail.com,Active
+C00138,Nada Sayed,Student,Ismailia,East,19/03/2022,company.com,Active
+C01807,Youssef Ali,Consumer,Beni Suef,West,2023/11/03,yahoo.com,Active
+C01945,Karim Ali,Professional,Ismailia,East,06/10/2023,yahoo.com,Active
+C01672,Salma Ibrahim,Professional,Port Said,East,12/17/2024,gmail.com,Active
+C01627,Nada Nabil,Student,Beni Suef,West,2023/03/19,gmail.com,Active
+C01455,Karim Mostafa,Student,Fayoum,West,01/20/2025,yahoo.com,Active
+C01128,Adam Nabil,Professional,6th of October,Central,24-Jan-2024,yahoo.com,Active
+C00319,Mariam Mahmoud,Consumer,Cairo,North,2022/01/10,gmail.com,Active
+C00284,Salma Samir,Consumer,Giza,South,2022/09/24,gmail.com,Active
+C00224,Adam Mahmoud,Student,Giza,South,2023/01/19,gmail.com,Active
+C00090,Mariam Tarek,Student,New Cairo,central,20-Apr-2023,outlook.com,Active
+C01723,Youssef Tarek,Professional,Beni Suef,West,05/23/2022,outlook.com,Active
+C01967,Karim Hassan,Student,Ismailia,East,01/02/2022,yahoo.com,Active
+C01052,Nour Hassan,Consumer,Cairo,Central,2024/11/25,outlook.com,Active
+C01333,Salma Tarek,Consumer,6th of October,Central,17/03/2022,company.com,Active
+C01699,Youssef Fathy,Professional,Giza,South,29/11/2023,company.com,Active
+C02084,Omar Sayed,Consumer,New Cairo,Central,15-Nov-2022,gmail.com,Active
+C00890,Farah Ibrahim,Student,Minya,West,02/10/2022,yahoo.com,Active
+C01846,  Mariam Kamal  ,Business,Fayoum,West,28/11/2024,outlook.com,Active
+C01902,  Mariam Sayed  ,Student,Ismailia,East,19/11/2022,gmail.com,Active
+C00948,Nada Ibrahim,Professional,Fayoum,West,06/03/2024,yahoo.com,Active
+C00506,HASSAN ALI,Student,Giza,SOUTH,26/05/2023,company.com,Active
+C00738,Mariam Mahmoud,Business,Fayoum,West,30/06/2023,yahoo.com,Active
+C00259,Nour Ibrahim,Business,Luxor,South,2022/02/21,gmail.com,Dormant
+C01278,Khaled Mahmoud,Consumer,New Cairo,Central,27-Jun-2022,gmail.com,Active
+C01645,Youssef Mahmoud,Consumer,Cairo,Central,2023-09-10,outlook.com,Active
+C01003,  Adam Ali  ,Business,PORT SAID,East,06/30/2022,outlook.com,Active
+C00656,salma ali,Professional,6th of October,Central,2023-01-02,yahoo.com,Active
+C01338,Hassan Ali,Business, Aswan ,South,01/08/2022,outlook.com,Active
+C01394,Youssef Nabil,Consumer, Fayoum ,West,05-May-2022,company.com,Active
+C00332,Mariam Hassan,Consumer,Giza,South,2023-10-04,,Active
+C00710,Farah Sayed,Professional,Port Said,East,2024-08-19,outlook.com,Active
+C01782,Hassan Amin,Business,Giza,South,05/09/2024,company.com,Active
+C01434,Nada Samir,Student,Cairo,Central,04/16/2024,gmail.com,Active
+C00683,Salma Amin,Student,New Cairo,Central,29/04/2024,yahoo.com,Active
+C02056,Salma Tarek,Consumer,Aswan,South,2023/12/20,gmail.com,Active
+C00514,Adam Tarek,Business,Aswan,South,2022/08/16,gmail.com,Inactive
+C01547,Nada Sayed,Student,New Cairo,Central,01/10/2023,gmail.com,Active
+C00132,Karim Mahmoud,Student,New Cairo,Central,2022-12-07,outlook.com,Active
+C00049,Nada Tarek,Student,Cairo,North,11/02/2024,company.com,Active
+C01092,Youssef Ibrahim,Business, Alexandria ,North,04/08/2024,company.com,Active
+C01762,Khaled Fathy,Business,Cairo,North,26-Jul-2023,company.com,Active
+C01948,Nour Sayed,Professional,Alexandria,North,23/05/2024,company.com,Active
+C02113,Nour Mostafa,Business,Beni Suef,West,18-Oct-2024,yahoo.com,Active
+C00311,Laila Tarek,Business,Tanta,North,03-Nov-2023,company.com,Active
+C02150,Nour Samir,Consumer,Aswan,South,27-Aug-2022,outlook.com,Active
+C01285,Salma Nabil,Student,Tanta,North,20/06/2022,company.com,Active
+C01505,Salma Nabil,Professional,Cairo,North,2023/11/01,company.com,Dormant
+C01908,Salma Hassan,Student,New Cairo,Central,2023/08/31,company.com,Inactive
+C01688,Youssef Samir,Consumer,Cairo,North,31/05/2023,yahoo.com,Active
+C01484,Mariam Sayed,Business,Tanta,North,14/03/2022,outlook.com,Active
+C00761,Laila Tarek,Professional,CAIRO,Central,12/22/2024,company.com,Active
+C01149,Nour Samir,Professional,Luxor,South,25/01/2025,company.com,Active
+C00008,Hassan Ibrahim,Professional,Cairo,central,26/08/2022,yahoo.com,Active
+C00395,Salma Ibrahim,Business,Cairo,Central,27/03/2022,gmail.com,Active
+C02146,Nour Ali,Business,Cairo,North,03/02/2024,gmail.com,Active
+C01309,Omar Kamal,Student,Beni Suef,West,2024-11-09,company.com,Active
+C01572,Youssef Hassan,Consumer,Port Said,East,01/07/2024,outlook.com,Active
+C00050,Salma Mahmoud,Consumer,Port Said,East,31/03/2024,company.com,Active
+C00054,Laila Kamal,Consumer,Minya,WEST,03/05/2022,gmail.com,Active
+C00139,Farah Samir,Student,Port Said,East,04/14/2024,gmail.com,Active
+C00847,Karim Sayed,Student,Fayoum,West,04/11/2023,,Active
+C00271,Laila Nabil,Business,Aswan,South,01-Feb-2022,outlook.com,Active
+C01119,Adam Tarek,Business,Cairo,North,2022/09/11,outlook.com,Inactive
+C01655,Karim Nabil,Professional,Cairo,North,07/24/2022,company.com,Active
+C01750,Nour Ibrahim,Professional,6th of October,Central,2022-04-29,yahoo.com,Active
+C00071,Farah Ali,Student,Tanta,North,05-Sep-2022,gmail.com,Active
+C02054,Laila Kamal,Consumer,New Cairo,Central,2022/02/24,outlook.com,Active
+C01246,Mariam Sayed,Business,Cairo,North,10/19/2024,yahoo.com,Active
+C01801,Nada Ibrahim,Professional,Port Said,East,07/12/2023,company.com,Active
+C01997,Adam Amin,Business,Giza,South,2022/01/03,gmail.com,Inactive
+C01259,Omar Fathy,Business,Alexandria,North,30/11/2023,company.com,Active
+C01816,  Nada Mostafa  ,Business,Port Said,East,16-Jun-2022,yahoo.com,Inactive
+C00883,Karim Kamal,Student,Alexandria,North,2022/03/27,yahoo.com,Active
+C00610,Omar Fathy,Consumer,Cairo,Central,2024/04/20,company.com,Inactive
+C00371,Salma Samir,Business,Aswan,South,29/03/2025,gmail.com,Active
+C00320,Nour Mahmoud,Business,Suez,East,2022/06/29,company.com,Active
+C01139,Nada Amin,Consumer,Beni Suef,West,24-Jan-2024,company.com,Active
+C00691,Youssef Amin,Professional,New Cairo,Central,02/12/2022,gmail.com,Active
+C01623,Youssef Kamal,Student,Ismailia,East,2023-12-06,yahoo.com,Active
+C00513,Mariam Nabil,Professional,alexandria,North,2023/08/22,outlook.com,Active
+C00563,Khaled Mostafa,Student,Cairo,Central,10/11/2022,company.com,Active
+C01760,karim ali,Consumer,6th of october,Central,11-Dec-2024,outlook.com,Active
+C01354,Mariam Amin ,Consumer,Minya,West,2025-03-31,yahoo.com,Active
+C00163,Hassan Ali,Professional,tanta,North,2023-08-18,yahoo.com,Active
+C01360,Nada Fathy,Student,PORT SAID,East,01/02/2022,company.com,Active
+C01444,Salma Samir,Consumer,Port Said,East,2024-03-12,gmail.com,Dormant
+C00076,Hassan Fathy,Business,Ismailia,East,2024/09/14,yahoo.com,Active
+C00451,Farah Fathy,Consumer,Suez,East,12/07/2022,yahoo.com,Active
+C00352,Adam Ibrahim,Professional,Cairo,North,2023-07-13,company.com,Active
+C00336, Adam Nabil,Student,Fayoum,West,10/02/2024,gmail.com,Active
+C00711,Laila Samir,Business,beni suef,West,12/10/2023,outlook.com,Active
+C00315,Laila Ibrahim,Professional,Cairo,North,2024-02-22,yahoo.com,Active
+C00510,Omar Fathy,Consumer,Port Said,East,2024/02/25,gmail.com,Active
+C01108,Hassan Ali ,Business,Fayoum,West,09/03/2023,outlook.com,Inactive
+C00585,Mariam Ibrahim,Student,Cairo,Central,27-Jun-2023,outlook.com,Active
+C01766,Nour Sayed,Consumer,Aswan,South,27-Jun-2022,gmail.com,Active
+C02104,Khaled Fathy,Student,Tanta,North,2022/05/04,gmail.com,Inactive
+C01007,Adam Amin,Student,Beni Suef,West,2023/01/01,outlook.com,Active
+C00056,Omar Nabil,Business,Cairo,North,14-Feb-2025,outlook.com,Active
+C01109,Youssef Ali,Student,Tanta,North,14-Dec-2022,outlook.com,Dormant
+C01604,Karim Nabil,Business,Alexandria,North,01/23/2024,company.com,Active
+C01038,Adam Amin,Consumer,Beni Suef,West,2024/01/01,outlook.com,Active
+C00750,Hassan Hassan,Business,New Cairo,Central,2023/11/21,yahoo.com,Active
+C01546,Adam Samir,Student,Minya,West,14-Nov-2022,company.com,Active
+C00525,Salma Ibrahim,Professional,Suez,East,07/12/2022,outlook.com,Active
+C00041,Farah Sayed,Professional,Aswan,South,18-Jun-2023,company.com,Active
+C01864,farah samir,Professional,Port Said,East,2022-03-22,outlook.com,Active
+C00245,Farah Sayed,Student, Minya ,West,03/09/2022,yahoo.com,Active
+C02130,Youssef Mostafa,Professional,Cairo,Central,2023-01-03,company.com,Active
+C01426,Nour Tarek,Consumer,Cairo,Central,2022-09-01,gmail.com,Active
+C00429,Youssef Mahmoud,Student,Giza,South,15-Apr-2023,company.com,Active
+C02095,Mariam Ibrahim,Professional,Aswan,South,2025/01/03,gmail.com,Dormant
+C01600,Khaled Amin,Student,New Cairo,central,04/08/2024,yahoo.com,Active
+C00327,Karim Amin,Consumer,New Cairo,Central,20-May-2023,gmail.com,Active
+C01046,Mariam Amin,Business,New Cairo,Central,2023/01/16,gmail.com,Active
+C00515,Adam Ibrahim,Student,6th of October,Central,2022-01-17,yahoo.com,Active
+C01906,Laila Fathy,Professional,6th of October,Central,31-Mar-2024,company.com,Active
+C00718,Khaled Hassan,Professional,ISMAILIA,East,2024-07-22,outlook.com,Active
+C01152,Youssef Samir,Consumer,Minya,West,07/07/2022,outlook.com,Active
+C01704,Karim Tarek,Professional,Cairo,North,10-Jul-2024,gmail.com,Active
+C01955,Omar Amin,Consumer,Aswan,South,02/24/2025,outlook.com,Active
+C01166,Salma Mostafa,Business,Tanta,North,2022-01-25,gmail.com,Active
+C00835,Nour Ali,Student,Giza,South,20/07/2022,outlook.com,Active
+C01639,Youssef Ali,Business,Tanta,North,2022-01-06,company.com,Active
+C00025,Nada Sayed,Student,Aswan,South,01/11/2024,yahoo.com,Active
+C00347,salma ibrahim,Student,Cairo,Central,12/23/2023,gmail.com,Active
+C02159,Nada Tarek,Professional,Giza,South,10/01/2022,yahoo.com,Active
+C01180,KARIM IBRAHIM,Professional, Cairo ,central,03-Dec-2024,outlook.com,Active
+C01494,Nour Hassan,Business,6th of October,Central,2022/08/11,outlook.com,Active
+C01023,  Adam Mahmoud  ,Professional,Beni Suef,West,12/04/2023,gmail.com,Active
+C01125,Nour Ali,Professional,New Cairo,Central,2024/04/22,yahoo.com,Active
+C00788,Mariam Mahmoud,Student,Luxor,South,21/03/2025,gmail.com,Active
+C01683,Karim Kamal,Student,Cairo,North,13-Sep-2023,outlook.com,Inactive
+C01159,Adam Nabil,Student, Beni Suef ,West,2025/04/02,outlook.com,Active
+C02002,Khaled Ibrahim,Business,Tanta,North,2025-04-03,gmail.com,Active
+C00266,Adam Nabil,Consumer,New Cairo,Central,2022-12-15,company.com,Active
+C01070,Omar Kamal,Business,Giza,South,23/04/2022,gmail.com,Active
+C01445,Salma Tarek,Professional,Cairo,Central,2023-03-08,gmail.com,Active
+C01812,Khaled Sayed,Business,Minya,West,2024/08/21,outlook.com,Dormant
+C01408,Farah Nabil,Student,Port Said,East,01-Feb-2022,yahoo.com,Active
+C01048,Youssef Sayed,Business,New Cairo,Central,2023-02-06,yahoo.com,Active
+C00449,Nour Samir,Professional,Minya,West,2022/06/05,company.com,Active
+C01792,Nour Mostafa,Consumer,Giza,South,09/17/2023,company.com,Active
+C00782,Karim Tarek,Business,Aswan,South,2023-11-18,outlook.com,Active
+C01482,Hassan Mostafa,Business,Ismailia,East,15/12/2022,company.com,Active
+C00996,Omar Fathy,Professional,Port Said,East,02/09/2022,gmail.com,Dormant
+C00374,Adam Ibrahim,Professional,Cairo,Central,06/29/2024,outlook.com,Active
+C01030,Farah Sayed,Student,Luxor,South,05/06/2022,gmail.com,Active
+C00154,Nour Mostafa,Consumer,Giza,South,2024/03/27,yahoo.com,Active
+C00768,Karim Ali,Consumer,Luxor,South,20/06/2022,yahoo.com,Active
+C01240,Youssef Samir,Professional,Alexandria,North,10/05/2023,company.com,Inactive
+C01323,Mariam Tarek,Business,Aswan,South,04/26/2024,company.com,Active
+C00078,Khaled Ibrahim,Business,Port Said,East,06/03/2024,yahoo.com,Active
+C01615,Adam Mahmoud,Business,Fayoum,West,2024-06-10,company.com,Active
+C01459,Mariam Ibrahim,Business,Aswan,South,2023-08-01,gmail.com,Active
+C01647,Salma Amin,Student,Alexandria,North,2023-11-03,yahoo.com,Dormant
+C00998,Omar Hassan,Student,Giza,South,2024/12/15,yahoo.com,Active
+C01601,Salma Tarek,Business,New Cairo,Central,08/08/2024,company.com,Active
+C00780,Salma Ali,Consumer,Ismailia,East,05/02/2023,gmail.com,Active
+C00588,Salma Mostafa,Professional,Giza,South,2023/08/30,outlook.com,Active
+C01861,Adam Hassan,Student,Cairo,North,2023-05-03,company.com,Active
+C01189,Omar Mahmoud,Consumer,Alexandria,North,01/15/2025,company.com,Active
+C01403,Adam Mostafa,Business,Fayoum,West,05-Dec-2024,company.com,Active
+C00897,Nada Kamal,Business,Suez,East,15/04/2022,gmail.com,Active
+C01713,Salma Nabil,Professional,Suez,East,2022/07/25,company.com,Active
+C00427,Mariam Ali,Professional,Luxor,South,27/04/2023,yahoo.com,Active
+C00745,Laila Hassan,Professional,Aswan,South,03/22/2025,yahoo.com,Active
+C01215,Hassan Samir,Professional,Tanta,North,2024/10/01,outlook.com,Active
+C00361,Nour Kamal,Student,New Cairo,Central,21-Jan-2023,,Active
+C00044,Youssef Ibrahim,Business,6th of October,Central,2023/08/02,company.com,Active
+C00882,Farah Nabil ,Student,Beni Suef,West,30/06/2023,yahoo.com,Active
+C00027,Farah Hassan,Student,6th of October,Central,2022-03-01,company.com,Active
+C00486,Adam Nabil,Student,Tanta,North,12/11/2023,yahoo.com,Active
+C01621,Nada Nabil,Student,Cairo,North,2023-12-31,company.com,Active
+C00207,Farah Amin,Business,6th of October,Central,2024/03/25,company.com,Active
+C00275,Salma Ali,Student,Ismailia,East,01/01/2022,yahoo.com,Dormant
+C00477,Karim Amin,Student,Beni Suef,West,2025/01/17,gmail.com,Active
+C01441,Adam Amin,Professional, Cairo ,North,18/02/2024,outlook.com,Active
+C01743,Omar Nabil,Business,Aswan,South,14-Aug-2024,yahoo.com,Active
+C01390,Laila Hassan,Student,Cairo,Central,13/12/2024,yahoo.com,Active
+C00621,Nour Sayed ,Professional,Tanta,North,14/04/2024,gmail.com,Active
+C01398,Laila Mostafa,Professional,fayoum,west,2023-05-10,outlook.com,Active
+C01035, Youssef Samir,Professional,Suez,East,16/06/2022,company.com,Active
+C00735,Mariam Nabil,Business,Cairo,Central,2024/12/01,outlook.com,Active
+C02025,Nada Mostafa,Student,Port Said,East,23-Nov-2024,outlook.com,Active
+C01019,Salma Mahmoud,Student,New Cairo,Central,02/09/2023,gmail.com,Active
+C00235,Khaled Hassan,Consumer,Suez,east,2023/02/05,outlook.com,Active
+C00213,Mariam Tarek,Student,Luxor,South,13/02/2024,gmail.com,Active
+C00103,Omar Tarek,Professional,Suez,EAST,02/02/2024,yahoo.com,Active
+C00334,Farah Mahmoud,Student,Cairo,Central,31/08/2023,company.com,Active
+C01785,Khaled Ibrahim,Consumer,Aswan,South,2024/07/16,yahoo.com,Active
+C01929,Mariam Amin,Student,Suez,east,28/07/2022,company.com,Active
+C00326,Laila Nabil ,Consumer,Cairo,Central,2023/07/22,gmail.com,Active
+C00713,NADA MOSTAFA,Consumer,Luxor,South,08-Jun-2022,yahoo.com,Active
+C01551,Adam Nabil,Consumer, Port Said ,East,22/10/2024,company.com,Active
+C00822,Nada Ali,Business,Ismailia,East,07/15/2023,yahoo.com,Active
+C02063,Adam Amin,Consumer,Luxor,South,2022-10-29,company.com,Dormant
+C00042,  Omar Mahmoud  ,Business,Port Said,East,06/03/2023,yahoo.com,Active
+C00925,Karim Mahmoud,Professional,6th of October,Central,08-Jul-2022,company.com,Active
+C00938,Adam Fathy,Business,Aswan,South,28-May-2023,outlook.com,Active
+C01927,Adam Mostafa,Student,CAIRO,Central,2023-12-30,yahoo.com,Active
+C00804,Adam Amin,Professional,Aswan,South,28/08/2022,yahoo.com,Active
+C01011,Omar Mahmoud,Business,Beni Suef,West,30-Dec-2022,outlook.com,Active
+C00491,Omar Nabil,Business,Beni Suef,West,02-Jan-2024,company.com,Active
+C01081,Karim Fathy,Professional,Luxor,South,2024/01/30,gmail.com,Dormant
+C01724,Youssef Tarek,Consumer,Alexandria,North,07/06/2022,yahoo.com,Active
+C00389,Nada Kamal,Business,New Cairo,Central,2024/08/12,gmail.com,Active
+C01421,Mariam Sayed,Business,Aswan,South,2024-07-27,yahoo.com,Active
+C01274,Karim Samir,Student,Cairo,North,09/04/2024,company.com,Active
+C00243,Farah Amin,Consumer,Beni Suef,West,15-Feb-2024,gmail.com,Active
+C01155,Nada Kamal,Consumer,Giza,South,05/20/2024,outlook.com,Dormant
+C00507,Adam Samir ,Business,Aswan,South,2023-09-30,yahoo.com,Active
+C01021,Adam Sayed,Student,Ismailia,East,2022-12-09,company.com,Active
+C00249, Karim Tarek,Business,New Cairo,Central,2022/02/15,yahoo.com,Active
+C01587,Nour Fathy,Professional,Cairo,Central,11/08/2024,outlook.com,Active
+C00765,Nada Mostafa,Consumer,ISMAILIA,East,2022-03-20,gmail.com,Active
+C00642,nour tarek,Professional,Suez,East,01/28/2023,outlook.com,Active
+C00179,Laila Nabil,Student,PORT SAID,East,2022/04/17,yahoo.com,Active
+C00884,Farah Ali,Student,Fayoum,West,10/17/2023,yahoo.com,Active
+C00195,Laila Nabil,Student,Cairo,Central,31-Oct-2024,outlook.com,Active
+C01949,Youssef Nabil,Professional,Tanta,North,03/11/2023,gmail.com,Active
+C00108,Omar Tarek,Consumer,Port Said,East,2022/09/01,outlook.com,Active
+C01477,  Nada Ali  ,Student,Minya,West,15/11/2024,yahoo.com,Active
+C00893,Nada Samir,Professional,Cairo,North,26-Feb-2025,gmail.com,Active
+C01630,Youssef Sayed,Student,Ismailia,east,01/06/2024,company.com,Active
+C00853,Laila Ibrahim,Student,Ismailia,East,2024/05/10,yahoo.com,Active
+C02049,Salma Amin,Student,Cairo,Central,2022/06/09,company.com,Active
+C01492,Farah Mahmoud,Professional,Giza,SOUTH,26-Feb-2024,gmail.com,Active
+C01292,Nour Kamal,Professional,Alexandria,North,19/10/2024,outlook.com,Active
+C01127,Youssef Mostafa,Student,luxor,South,2022/06/01,gmail.com,Active
+C01670,LAILA FATHY,Consumer,Ismailia,East,2024-04-25,company.com,Active
+C00880,Salma Fathy,Consumer,BENI SUEF,West,06/03/2025,company.com,Active
+C01088,Nada Mahmoud,Student,Luxor,South,2023-08-27,yahoo.com,Active
+C01263,KARIM SAMIR,Consumer,Cairo,North,2024-09-03,outlook.com,Active
+C00077,Nour Sayed,Professional,Cairo,North,2024/03/24,company.com,Active
+C00067,Khaled Mahmoud,Consumer,Luxor,South,12/09/2022,company.com,Inactive
+C01716,Salma Ibrahim,Business,Suez,East,2022/11/10,company.com,Active
+C00728,Nour Sayed,Consumer,Minya,West,08-May-2022,company.com,Active
+C00492,Mariam Samir,Consumer,Suez,East,27-Sep-2022,gmail.com,Active
+C02180,Adam Sayed,Consumer,Port Said,East,26/03/2022,company.com,Active
+C00384,Omar Nabil,Professional,Fayoum,West,19-Jan-2022,yahoo.com,Active
+C01165,Youssef Nabil,Student,Giza,South,18/07/2024,gmail.com,Active
+C00295,Karim Nabil,Business,Minya,West,2023-04-24,company.com,Dormant
+C00891,Nour Ibrahim,Student,Cairo,CENTRAL,2024/03/04,outlook.com,Active
+C01752,Salma Samir,Business,Ismailia,East,2023/08/26,outlook.com,Active
+C01473,Farah Kamal,Student,Luxor,South,04/13/2023,outlook.com,Active
+C02014,omar nabil,Consumer,Fayoum,West,02/24/2022,company.com,Active
+C00185,Salma Nabil,Student,Minya,WEST,09/03/2022,outlook.com,Active
+C01084,Nour Hassan,Professional,Suez,East,2022-09-15,outlook.com,Active
+C00778,Hassan Amin,Business,ALEXANDRIA,North,2022/02/14,yahoo.com,Active
+C02070,Youssef Mostafa,Business,Tanta,North,10/09/2022,,Active
+C01731,Omar Mostafa,Consumer,Ismailia,East,01/31/2022,company.com,Active
+C00264,Youssef Samir,Consumer,New Cairo,Central,16-Dec-2023,outlook.com,Active
+C01535,Youssef Fathy,Consumer,beni suef,West,23-Oct-2023,outlook.com,Active
+C01493,Laila Ali,Student,6th of October,Central,11/27/2023,gmail.com,Active
+C01261,Karim Mahmoud,Consumer, Giza ,South,24/07/2023,company.com,Active
+C02090,Laila Nabil,Professional,Cairo,North,12/08/2023,yahoo.com,Inactive
+C00434,Salma Ali,Consumer,Fayoum,West,20/03/2023,outlook.com,Active
+C01640,Youssef Fathy,Consumer,6th of October,Central,03-Jan-2022,outlook.com,Active
+C01347,Laila Ali,Student,Port Said,East,2023-06-16,yahoo.com,Active
+C01911,Nada Mahmoud,Business,Cairo,NORTH,2025/02/13,gmail.com,Active
+C00988,Mariam Ibrahim,Business,New Cairo,Central,2024/07/08,outlook.com,Active
+C01341,Hassan Tarek,Business,Cairo,North,28/06/2023,yahoo.com,Active
+C01797,Salma Mahmoud,Consumer,Tanta,North,2022/10/12,gmail.com,Active
+C00591,Laila Kamal,Business,Beni Suef,West,2025-04-14,yahoo.com,Dormant
+C00922,  Farah Kamal  ,Consumer,Cairo,North,11/25/2022,outlook.com,Active
+C01552,Hassan Hassan,Business,Cairo,North,2022-03-06,company.com,Dormant
+C00253,Hassan Amin,Student,Alexandria,North,2023/01/07,yahoo.com,Active
+C01784,Laila Tarek,Business,Suez,East,11/30/2023,outlook.com,Active
+C00589,Nada Mostafa,Professional,Alexandria,North,30/05/2022,,Active
+C00390,  Nour Ali  ,Business,Ismailia,East,2024-09-30,company.com,Active
+C00719,Karim Amin,Student,Cairo,Central,22/02/2022,,Active
+C00512,Mariam Nabil,Professional,Cairo,Central,27/09/2023,gmail.com,Active
+C00055,Nour Hassan,Business,Suez,East,2022-09-11,outlook.com,Active
+C00557,Omar Sayed,Professional,Tanta,North,2022/10/15,gmail.com,Active
+C01489,Farah Hassan,Student,6th of October,Central,2024/02/26,yahoo.com,Active
+C01857,Laila Fathy,Consumer,ALEXANDRIA,North,11-Jul-2022,gmail.com,Active
+C00974,Omar Hassan,Student,Suez,East,23/03/2022,company.com,Dormant
+C01436,Farah Ali,Consumer,Luxor,South,2025-03-03,gmail.com,Active
+C00313,Mariam Samir,Business,new cairo,Central,2025/02/10,,Active
+C01741,Salma Sayed,Consumer,New Cairo,Central,26/09/2023,company.com,Active
+C00030,Nada Sayed,Professional,Port Said,East,2023-12-15,yahoo.com,Active
+C01022,Adam Ibrahim,Consumer,New Cairo,Central,05/11/2022,yahoo.com,Active
+C02106,Nada Kamal,Student,fayoum,West,06/13/2024,company.com,Active
+C01141,Omar Nabil,Student,Fayoum,West,28/08/2023,company.com,Active
+C00394,Khaled Mahmoud,Consumer,Beni Suef,West,16/01/2023,gmail.com,Active
+C01078,Salma Amin,Student,Alexandria,North,21-Nov-2023,company.com,Active
+C01353,Hassan Hassan,Business,Suez,East,2022-06-14,yahoo.com,Inactive
+C01214,  Youssef Nabil  ,Consumer,Cairo,Central,2024/02/03,yahoo.com,Active
+C02092,Laila Fathy,Student,6th of October,Central,06/22/2022,yahoo.com,Active
+C01919,Hassan Fathy,Student,Minya,West,2023-09-12,outlook.com,Active
+C01496,Laila Mostafa,Professional,Ismailia,East,03/26/2023,company.com,Active
+C02148,Farah Amin,Business,Cairo,North,24-Jul-2024,company.com,Active
+C00655,Nour Sayed,Business,Luxor,South,2025/03/14,gmail.com,Active
+C00892,Hassan Amin,Consumer,Alexandria,North,03-Dec-2024,company.com,Inactive
+C02182,  Farah Amin  ,Student,New Cairo,Central,09/02/2023,yahoo.com,Active
+C01932,karim ibrahim,Professional,Suez,East,12-Mar-2022,gmail.com,Active
+C01237,Nada Samir,Professional,ismailia,East,2023-01-12,gmail.com,Active
+C01005, Adam Kamal,Business,ASWAN,South,15/11/2023,outlook.com,Active
+C01157,Mariam Mostafa,Professional,Alexandria,North,12/20/2024,outlook.com,Active
+C01915,Nada Mahmoud,Student,Ismailia,east,2024-01-26,yahoo.com,Active
+C01769,Youssef Kamal,Professional,Fayoum,West,2022-10-25,outlook.com,Active
+C01514,Nour Mostafa,Student,Minya,West,2023-01-28,yahoo.com,Active
+C02064,Laila Amin,Business,New Cairo,Central,04/09/2023,outlook.com,Active
+C00535,  Nada Amin  ,Business,Luxor,South,24/06/2024,company.com,Active
+C00214,Farah Mostafa,Business,Port Said,East,12/10/2023,outlook.com,Active
+C00868,Youssef Hassan,Professional,Cairo,Central,2023/04/10,company.com,Active
+C01843,Salma Ibrahim,Student,Suez,East,09/11/2022,gmail.com,Active
+C00373,Karim Hassan,Professional,Alexandria,North,02/16/2025,company.com,Dormant
+C00654,Karim Hassan,Student,Ismailia,East,16-Dec-2022,company.com,Dormant
+C00321,Laila Fathy,Consumer,Ismailia,East,04/08/2023,outlook.com,Active
+C01884,Omar Amin,Student,Giza,South,25-Sep-2022,company.com,Active
+C00901,Farah Nabil,Business, Beni Suef ,West,10/01/2024,yahoo.com,Active
+C02186,Salma Mahmoud,Business,Aswan,South,2023-08-14,yahoo.com,Active
+C01694,Hassan Samir,Business,Luxor,South,06/09/2024,company.com,Active
+C02050,Salma Ali,Business,Luxor,South,19/05/2022,gmail.com,Active
+C01051,Nour Nabil,Professional,Fayoum,west,05/11/2022,yahoo.com,Active
+C01041,Omar Hassan,Professional,New Cairo,Central,12/26/2022,outlook.com,Active
+C02033,Hassan Mostafa,Consumer,Fayoum,West,2023-05-07,outlook.com,Active
+C01365,Laila Hassan,Student,New Cairo,Central,27/02/2025,gmail.com,Active
+C01988,Youssef Kamal,Professional,Minya,West,2024-04-05,gmail.com,Active
+C02160,Mariam Tarek,Professional,Beni Suef,West,2022-05-24,outlook.com,Active
+C01772,Nada Samir,Business,Ismailia,East,2024-11-25,yahoo.com,Active
+C01728,Farah Amin,Consumer,Giza,South,02/04/2022,gmail.com,Active
+C01272,Salma Fathy,Professional,Suez,East,2023-08-16,company.com,Active
+C01073,Omar Ali,Student,Cairo,North,06-May-2022,outlook.com,Active
+C01373,Laila Fathy,Business,Minya,West,15/02/2023,gmail.com,Active
+C02077,Nada Ibrahim,Consumer,cairo,North,10-Oct-2022,company.com,Active
+C00084,Youssef Mahmoud,Professional,Cairo,North,05/05/2023,yahoo.com,Active
+C01470,Youssef Fathy,Professional,Aswan,South,2022-05-06,company.com,Active
+C00233,Hassan Samir,Student,Fayoum,West,05-Jan-2022,yahoo.com,Dormant
+C00732,Karim Fathy,Consumer,Minya,West,25-Mar-2025,gmail.com,Dormant
+C00109,Farah Samir,Consumer,Ismailia,East,04/03/2024,outlook.com,Active
+C01559,Mariam Samir,Business,Alexandria,North,03/25/2024,gmail.com,Active
+C00155,Karim Amin,Student,Alexandria,North,25-May-2023,outlook.com,Active
+C00550,Adam Ali,Consumer,Fayoum,West,02/22/2023,company.com,Active
+C01405,Karim Amin,Consumer,Fayoum,West,2022/11/23,outlook.com,Active
+C00918,Omar Amin,Student,Fayoum,West,2022/03/25,outlook.com,Active
+C01216,Salma Kamal,Professional,Aswan,south,10/02/2023,gmail.com,Dormant
+C01523,Youssef Ibrahim,Student,Port Said,East,31/12/2024,company.com,Active
+C02020,MARIAM KAMAL,Business,Luxor,South,04/20/2022,company.com,Active
+C00244,Nour Ibrahim,Consumer,Giza,South,2025/03/31,outlook.com,Active
+C00652,Omar Amin,Consumer,Beni Suef,West,2023/04/23,company.com,Active
+C00441,Hassan Kamal,Student,port said,East,22/10/2023,company.com,Active
+C01675,Omar Nabil,Business,6th of October,Central,02/28/2024,outlook.com,Active
+C01055, Mariam Hassan,Student,Giza,South,08-Jul-2024,yahoo.com,Inactive
+C01174,Karim Kamal,Professional,Ismailia,East,01/01/2024,yahoo.com,Active
+C01569,Adam Sayed,Business,Port Said,East,2024/02/24,company.com,Dormant
+C01203,SALMA HASSAN,Professional,Fayoum,West,27/01/2025,,Active
+C00796,Farah Nabil,Professional,Giza,South,02/06/2023,company.com,Active
+C01896,Karim Ibrahim,Consumer,Tanta,North,26/05/2024,yahoo.com,Dormant
+C01542,Salma Tarek,Professional,6th of October,Central,02-May-2023,gmail.com,Active
+C02010,Hassan Ibrahim,Business,6th of October,Central,2022/04/23,company.com,Active
+C00976,Salma Kamal,Business,Tanta,North,08/07/2023,outlook.com,Active
+C01297,Mariam Amin,Professional,Cairo,Central,24-Apr-2023,company.com,Active
+C01331,Nour Ali,Business,LUXOR,South,2023-03-31,company.com,Active
+C01705,Adam Tarek ,Student,Cairo,Central,19-Jul-2023,yahoo.com,Active
+C01371,Farah Ibrahim,Professional,Luxor,South,15/11/2024,company.com,Active
+C01893,Youssef Nabil,Professional,Suez,East,05/10/2023,yahoo.com,Active
+C01984,Omar Fathy,Student,Beni Suef,West,2022-06-05,outlook.com,Active
+C01612,Farah Mostafa,Student,Cairo,NORTH,2024/11/11,gmail.com,Active
+C01946,Khaled Ibrahim,Business,Cairo,central,20/08/2022,gmail.com,Active
+C00689,Farah Fathy,Consumer,Giza,South,10/14/2024,company.com,Active
+C00362,Nour Kamal,Student,Cairo,Central,06/26/2023,yahoo.com,Dormant
+C01325,Nada Sayed,Professional,Cairo,Central,2023-02-18,company.com,Active
+C01850,Mariam Amin,Business,Minya,West,2024/03/24,yahoo.com,Dormant
+C01288,Mariam Ibrahim,Business,Cairo,North,2022-07-20,yahoo.com,Active
+C00877,Adam Fathy,Consumer,6th of october,Central,16-Jul-2023,yahoo.com,Active
+C02189,Laila Tarek,Professional,Aswan,South,30-Nov-2023,company.com,Inactive
+C01589,Laila Kamal,Consumer,Cairo,North,2024-04-07,outlook.com,Active
+C00040, Farah Fathy,Student, Ismailia ,East,2023-12-22,yahoo.com,Active
+C00875,Karim Samir,Professional,6th of October,Central,18/04/2022,company.com,Active
+C01342,Adam Kamal,Consumer,Suez,East,02/16/2024,yahoo.com,Active
+C02147,Omar Mahmoud,Business,6th of October,Central,2022/08/27,company.com,Active
+C00365,Youssef Mostafa,Consumer,Cairo,central,20-Sep-2023,gmail.com,Active
+C00136,Youssef Kamal,Business,Tanta,North,2022-03-29,company.com,Active
+C01393,Farah Nabil,Consumer,Cairo,North,24-Jan-2022,yahoo.com,Active
+C00851,Hassan Amin,Student,Tanta,North,2023-05-23,yahoo.com,Active
+C01418,Omar Amin,Student,New Cairo,Central,28/01/2022,outlook.com,Active
+C00072,Omar Mahmoud,Consumer,6th of October,Central,2023/01/24,gmail.com,Active
+C00219,Hassan Amin,Consumer,Ismailia,East,25-Apr-2023,yahoo.com,Active
+C00848,Omar Tarek,Professional,Port Said,East,05/09/2024,company.com,Active
+C00845,Youssef Ali,Consumer,Ismailia,East,03/11/2022,outlook.com,Active
+C00398,  Nada Ibrahim  ,Professional,Beni Suef,West,20-Aug-2022,yahoo.com,Dormant
+C01399,Adam Hassan,Consumer,6TH OF OCTOBER,Central,05/10/2024,company.com,Active
+C01721,Karim Fathy,Business,Cairo,Central,2024/06/02,gmail.com,Active
+C01810,Salma Amin,Business,Fayoum,west,02/17/2022,company.com,Active
+C01829,Omar Nabil,Business,Minya,West,26/07/2024,,Active
+C00828,Youssef Mahmoud,Business,Suez,East,16-Aug-2022,yahoo.com,Active
+C01280,Youssef Tarek,Business,Port Said,East,24-Nov-2023,outlook.com,Active
+C00574,Laila Sayed,Student,Port Said,East,2024/10/23,company.com,Dormant
+C01428,Hassan Kamal,Student,Giza,South,2022-11-18,yahoo.com,Active
+C01500,Salma Tarek,Business,Alexandria,North,2023/04/18,gmail.com,Dormant
+C00963,Hassan Mostafa,Business,Aswan,South,2025/01/12,company.com,Active
+C01783,Laila Mahmoud,Consumer,Port Said,East,31/05/2023,outlook.com,Active
+C00779,Hassan Samir,Professional,Ismailia,East,2023-04-14,,Active
+C00101,Nada Sayed,Consumer,Alexandria,north,09/29/2024,outlook.com,Active
+C02067,Nada Kamal,Business,Minya,West,14/12/2023,yahoo.com,Active
+C00392,Farah Mostafa,Consumer,Tanta,North,2023/05/17,company.com,Active
+C01976,Salma Ibrahim,Professional,Cairo,Central,13/11/2022,yahoo.com,Active
+C01069,Salma Ibrahim,Business,New Cairo,Central,22/06/2023,yahoo.com,Active
+C00421,Laila Fathy,Business,Port Said,East,04-Feb-2025,outlook.com,Active
+C01256,Nada Ali,Professional,Port Said,East,10/10/2023,company.com,Active
+C00975,Hassan Mostafa,Professional,Alexandria,North,2024/08/02,yahoo.com,Active
+C00859,Laila Ibrahim,Professional,Minya,West,2022/11/12,outlook.com,Active
+C00613,Farah Ali,Professional,Tanta,North,2024/01/24,outlook.com,Active
+C00285,Farah Sayed,Business,Beni Suef,West,02/09/2023,outlook.com,Active
+C00397,Laila Nabil ,Professional,Alexandria,North,22-Jul-2024,outlook.com,Active
+C00212,omar mahmoud,Student,Tanta,North,18-Apr-2022,outlook.com,Active
+C00600,Laila Sayed,Consumer,LUXOR,South,03/08/2024,gmail.com,Active
+C02046,Khaled Nabil,Student,Aswan,South,28-Sep-2022,outlook.com,Active
+C01018,Laila Nabil,Business,Alexandria,North,2023/06/16,company.com,Inactive
+C00099,Omar Tarek,Student,Giza,South,11/08/2024,gmail.com,Active
+C01904,Salma Mahmoud,Professional,Minya,West,08/21/2022,yahoo.com,Active
+C00792,Omar Tarek ,Professional,Ismailia,East,02/09/2024,gmail.com,Active
+C00688,Laila Amin,Student,Ismailia,East,13/08/2024,outlook.com,Active
+C00064,Nour Ibrahim,Professional,Aswan,South,11/24/2023,gmail.com,Active
+C02080,Khaled Tarek,Consumer,ISMAILIA,East,08/09/2024,yahoo.com,Active
+C01257,Hassan Tarek,Business,Cairo,Central,2023-08-06,outlook.com,Active
+C01970,Karim Mostafa,Professional,Minya,West,02/29/2024,company.com,Active
+C00487,Karim Mahmoud,Student,Minya,West,04-Jan-2022,company.com,Active
+C00799,Nour Sayed,Professional,New Cairo,Central,2023/05/08,gmail.com,Active
+C00414,Adam Ali ,Student,Aswan,South,2024-03-06,gmail.com,Active
+C00986,Mariam Ali,Student,6th of October,Central,02/22/2023,company.com,Active
+C01894,Nour Ibrahim,Consumer,Cairo,Central,2023-01-05,company.com,Active
+C01852,Nada Nabil,Consumer,Aswan,South,12/07/2023,outlook.com,Active
+C01962,Adam Amin,Consumer,Cairo,North,2023-10-07,outlook.com,Active
+C01449,Salma Tarek,Consumer,Tanta,North,08/21/2024,yahoo.com,Active
+C02188,Adam Nabil,Business,Luxor,South,2024/05/20,yahoo.com,Inactive
+C00026,Karim Fathy,Student,Minya,West,2022-05-22,company.com,Active
+C00149,Mariam Hassan,Professional,Cairo,Central,2022-05-18,yahoo.com,Active
+C01094,Youssef Ali,Student,Aswan,South,2025-03-24,gmail.com,Active
+C00702,Nour Fathy,Student,Giza,South,06-Jan-2022,company.com,Active
+C01067,Nada Amin,Student,Tanta,North,07/24/2022,outlook.com,Active
+C00520,Hassan Mostafa,Consumer,New Cairo,Central,2022-09-08,yahoo.com,Active
+C00747,Omar Samir,Professional,Fayoum,west,19-Oct-2023,gmail.com,Active
+C01513,Mariam Samir,Professional,New Cairo,Central,06/03/2024,outlook.com,Active
+C00615,Farah Mahmoud,Consumer,beni suef,West,2024-12-14,gmail.com,Active
+C02157,Nada Hassan,Consumer,Tanta,North,06/05/2024,gmail.com,Active
+C02058,Laila Mahmoud,Consumer,Luxor,South,2024-04-02,yahoo.com,Active
+C00542,Nour Ali,Business,Cairo,Central,2025-02-09,gmail.com,Active
+C01330,Karim Tarek,Professional,Minya,West,01/20/2025,outlook.com,Active
+C00559,Khaled Ali,Business,Fayoum,West,2024/07/26,gmail.com,Active
+C00605,Youssef Samir,Professional,New Cairo,Central,12/02/2022,company.com,Active
+C01430,Laila Amin,Student,Aswan,South,06/03/2023,,Active
+C01249,Youssef Kamal,Professional,New Cairo,Central,11/26/2024,company.com,Active
+C00910,Laila Tarek,Student,Minya,West,2023/02/15,gmail.com,Active
+C01352,Farah Ibrahim,Student,Port Said,East,29/04/2022,yahoo.com,Active
+C01570,Khaled Samir,Consumer,Suez,East,2024-02-25,yahoo.com,Active
+C02060,Karim Amin,Student,Giza,South,02/04/2025,gmail.com,Active
+C00481,Hassan Ali,Professional,New Cairo,Central,05/08/2022,yahoo.com,Dormant
+C00725,Khaled Nabil,Business,Giza,South,2022/09/07,company.com,Active
+C01973,Mariam Amin,Business,Suez,EAST,26-Jul-2022,yahoo.com,Active
+C01172,Khaled Samir,Business,ismailia,East,09/05/2023,yahoo.com,Active
+C01192,Laila Tarek ,Professional,Alexandria,North,2024/12/04,yahoo.com,Active
+C00912,Salma Mostafa,Student,New Cairo,Central,26/01/2025,yahoo.com,Active
+C01917,Hassan Mahmoud,Professional,New Cairo,Central,2022-12-21,company.com,Active
+C00739,Nada Mahmoud,Consumer, 6th of October ,Central,06-Sep-2024,gmail.com,Active
+C02127,Mariam Ibrahim,Professional,Port Said,East,25/02/2025,company.com,Active
+C00900,Adam Tarek,Student,Luxor,South,06/15/2023,gmail.com,Active
+C00715,Farah Sayed,Professional,Beni Suef,West,21-Sep-2022,outlook.com,Active
+C00191,Omar Mostafa,Business,Alexandria,North,17-Jun-2022,company.com,Dormant
+C01553,Salma Sayed,Consumer,Aswan,South,2023/12/24,company.com,Active
+C02155,Adam Samir,Student,Giza,South,05/15/2023,gmail.com,Active
+C01778,Mariam Tarek,Professional,Fayoum,West,09/29/2022,gmail.com,Active
+C00116,Salma Mahmoud,Professional,Giza,South,2022/09/12,outlook.com,Active
+C00776,Laila Samir,Student,ismailia,East,2022-09-07,company.com,Active
+C01963,Youssef Mahmoud,Student,Minya,West,05-Apr-2023,gmail.com,Active
+C01232,Salma Ibrahim,Consumer,Beni Suef,West,2024/07/31,gmail.com,Dormant
+C00531,Omar Ibrahim,Professional,Suez,East,01-Jun-2024,company.com,Active
+C00896,Laila Mahmoud,Business,Alexandria,North,17-Jul-2024,company.com,Active
+C01369,Nada Mahmoud,Student,Ismailia,East,15-Feb-2025,yahoo.com,Active
+C02171,Karim Kamal,Business,New Cairo,Central,2022/10/09,company.com,Active
+C01519,Karim Mahmoud,Consumer,SUEZ,East,15-Jun-2023,yahoo.com,Active
+C00220,Karim Fathy,Professional,Port Said,East,23/10/2022,outlook.com,Active
+C00927,hassan ali,Consumer,Cairo,Central,2024-05-20,yahoo.com,Active
+C01669,Karim Mahmoud,Student,6th of October,Central,2022/08/06,yahoo.com,Active
+C00889,Hassan Amin,Professional,Ismailia,East,2022-05-07,outlook.com,Active
+C00123,Karim Kamal,Student,Aswan,South,2023-10-14,company.com,Active
+C01838,Youssef Tarek,Student,6th of October,Central,02/06/2024,outlook.com,Active
+C00809,  Salma Hassan  ,Consumer,Fayoum,West,2023/10/15,outlook.com,Active
+C00092,Mariam Mahmoud,Student,Giza,South,26/07/2023,yahoo.com,Active
+C00777,Youssef Mostafa,Professional,Luxor,South,2022/10/16,outlook.com,Active
+C00614,Adam Ibrahim,Business,Alexandria,North,27-Jun-2022,company.com,Active
+C01794,OMAR MAHMOUD,Student,Port Said,East,2022/05/25,outlook.com,Active
+C01849,Mariam Mahmoud,Student,Aswan,South,2023/04/20,yahoo.com,Active
+C01532,Nour Fathy,Consumer,Minya,West,09/02/2025,company.com,Active
+C00172,Farah Kamal,Business,6th of October,Central,09-Mar-2023,gmail.com,Active
+C02114, Salma Tarek,Business,Beni Suef,West,2022/07/31,yahoo.com,Active
+C01866,Nour Fathy,Professional,Cairo,North,27/04/2023,company.com,Active
+C00011,Salma Sayed,Business,Giza,South,02/27/2025,outlook.com,Active
+C00458,Nada Ibrahim,Consumer,Luxor,South,22/03/2024,yahoo.com,Active
+C00840,Khaled Nabil,Professional,New Cairo,Central,02/06/2023,company.com,Active
+C00708,farah nabil,Professional,Aswan,South,07-Jan-2025,company.com,Active
+C01485,Adam Sayed,Business,ALEXANDRIA,North,12-Mar-2025,gmail.com,Active
+C00919,Hassan Mostafa,Consumer,Fayoum,West,03/03/2022,company.com,Active
+C00060,SALMA FATHY,Consumer,Beni Suef,WEST,2023/11/17,gmail.com,Active
+C00086,Laila Mostafa,Consumer,6th of October,Central,2022/06/07,gmail.com,Inactive
+C00636,Hassan Mahmoud,Student,6th of October,Central,15-Nov-2024,company.com,Active
+C01076,  Nour Ibrahim  ,Business,Suez,EAST,2024-07-29,yahoo.com,Active
+C00958,  Nour Ali  ,Professional,ismailia,East,2024/02/13,company.com,Active
+C01922,Laila Tarek,Professional,ismailia,East,2024/09/03,gmail.com,Active
+C00137,Hassan Ali,Student,alexandria,North,12/15/2022,yahoo.com,Active
+C01239,Omar Kamal,Student,Giza,South,2022/03/06,gmail.com,Active
+C01733,Khaled Hassan,Consumer,New Cairo,Central,2022-07-11,yahoo.com,Active
+C02111,Karim Sayed,Business,New Cairo,Central,02/08/2022,company.com,Active
+C00485,Nour Ibrahim,Business,Suez,East,04/07/2023,outlook.com,Active
+C01959,Nour Amin ,Business,cairo,North,25/10/2023,yahoo.com,Active
+C01536,salma kamal,Consumer,Giza,South,12-Feb-2024,outlook.com,Active
+C01806,Farah Nabil,Consumer,Cairo,Central,2022-08-26,yahoo.com,Active
+C01474,Salma Ali,Student,Aswan,South,04/15/2022,gmail.com,Inactive
+C00757,Nada Sayed,Student,Ismailia,East,2025-02-05,yahoo.com,Active
+C00637,Nour Hassan,Student,Beni Suef,West,06/08/2024,,Active
+C01681,Adam Kamal,Business,Cairo,Central,2024/09/14,company.com,Dormant
+C01027,Laila Hassan ,Student,Minya,West,2023/10/01,gmail.com,Active
+C00474,Hassan Tarek,Business,Port Said,East,16-Jan-2024,gmail.com,Active
+C01466,Laila Samir,Professional,Tanta,North,2023-03-17,yahoo.com,Active
+C01196,Youssef Ibrahim,Student,Tanta,North,18/02/2023,outlook.com,Active
+C00836,Youssef Tarek,Student,Cairo,Central,01/04/2022,company.com,Active
+C02086,Adam Mahmoud,Business,Beni Suef,West,08-Oct-2023,company.com,Active
+C00159,Salma Tarek,Professional,PORT SAID,East,24-Jan-2025,company.com,Active
+C00073,Mariam Ibrahim,Student,Tanta,North,30-Jan-2025,gmail.com,Active
+C00080,Omar Ali,Business,Minya,West,2024-12-10,company.com,Active
+C00386,Karim Samir,Student,Alexandria,North,14-Mar-2024,company.com,Active
+C01187,Youssef Nabil,Consumer,Beni Suef,West,21-Apr-2024,outlook.com,Active
+C00499,Omar Ibrahim,Business,Suez,East,2024/09/18,company.com,Active
+C01113,Salma Nabil,Student,Suez,East,04/21/2024,company.com,Active
+C00227,Hassan Kamal,Student,Cairo,North,2024/11/17,company.com,Active
+C00701,Nour Kamal,Consumer,Alexandria,North,25-Mar-2024,yahoo.com,Active
+C01377,Laila Hassan,Student,New Cairo,Central,2024-05-11,gmail.com,Inactive
+C00930,Nour Fathy,Student,Port Said,East,05-Jun-2023,gmail.com,Active
+C01501,Adam Sayed,Business,6th of October,Central,10/07/2024,gmail.com,Active
+C00529,Hassan Tarek,Business,6th of October,Central,2022/04/13,outlook.com,Active
+C00234,Salma Ali,Student,aswan,South,2024/03/14,company.com,Active
+C00634,Karim Kamal,Professional,Cairo,North,05/11/2023,yahoo.com,Active
+C00707,Adam Amin,Professional,Cairo,central,25-Jan-2023,company.com,Active
+C01228,Laila Samir,Business,Fayoum,West,2023-11-13,yahoo.com,Active
+C01236,Mariam Tarek,Business,Tanta,North,2022/08/24,company.com,Active
+C01346,Farah Amin,Student,Cairo,North,27/02/2025,outlook.com,Active
+C01146,Omar Sayed,Professional,Fayoum,West,17/01/2023,yahoo.com,Dormant
+C01631,Adam Tarek,Student,Cairo,North,2024-02-27,company.com,Active
+C00677,Laila Nabil,Student,Cairo,North,08/17/2023,company.com,Active
+C01451,Nour Ibrahim,Consumer,Port Said,East,09/21/2024,yahoo.com,Inactive
+C01253,Nour Sayed,Student,Suez,East,25-Apr-2023,yahoo.com,Dormant
+C02015,Youssef Ibrahim,Professional,Luxor,South,2022/09/24,gmail.com,Active
+C00193,Nour Ali,Business,Fayoum,West,2024/08/05,company.com,Active
+C00545,  Karim Samir  ,Professional,Giza,South,18/03/2024,yahoo.com,Active
+C00355,Farah Tarek,Consumer,Giza,South,08/10/2023,outlook.com,Active
+C00183,OMAR AMIN,Professional,6TH OF OCTOBER,Central,2024/10/30,outlook.com,Active
+C02110,Adam Fathy,Student,Cairo,North,12-Jul-2024,yahoo.com,Dormant
+C01414,Karim Sayed,Professional,Minya,West,08/22/2023,outlook.com,Active
+C00644,Farah Hassan,Student,Tanta,North,03/29/2024,company.com,Active
+C01571,Farah Fathy,Student,Ismailia,East,03/06/2022,yahoo.com,Active
+C01739,Laila Samir,Consumer,ALEXANDRIA,North,2023-04-12,company.com,Active
+C01747,Farah Fathy,Professional,Beni Suef,West,03/04/2023,gmail.com,Active
+C00817,Karim Sayed,Professional,Cairo,North,2022/06/03,company.com,Active
+C01905,Mariam Sayed,Professional,Fayoum,West,06/17/2023,gmail.com,Inactive
+C00584,Karim Kamal,Consumer,New Cairo,Central,14-Jul-2024,outlook.com,Active
+C01381,Farah Fathy,Student,Port Said,East,19/07/2024,gmail.com,Active
+C00551,nour mahmoud,Professional,Ismailia,East,2023/02/03,company.com,Active
+C02069,Nour Mahmoud,Professional,Alexandria,North,20/07/2022,yahoo.com,Active
+C01579,Salma Tarek,Consumer,Suez,East,2022-12-09,yahoo.com,Active
+C01925,Salma Fathy,Consumer,Port Said,East,10/11/2024,,Active
+C00752,Salma Kamal,Professional,Giza,South,20-Sep-2024,,Active
+C01972,Adam Kamal,Consumer,Tanta,North,11/01/2023,gmail.com,Active
+C00904,Omar Mostafa,Consumer,Cairo,Central,2022/10/23,company.com,Active
+C00923,Laila Fathy,Consumer,6th of October,Central,2022-08-25,gmail.com,Active
+C01820,Mariam Mostafa,Student,Minya,West,2023/02/05,outlook.com,Active
+C02125,Laila Mahmoud,Professional,New Cairo,Central,11-Aug-2023,gmail.com,Active
+C01156,Karim Hassan,Consumer,Fayoum,west,08/07/2022,yahoo.com,Active
+C01468,Omar Hassan,Student,Luxor,South,2025-04-06,outlook.com,Active
+C01748,Nour Kamal,Student,Cairo,Central,28/04/2024,company.com,Active
+C01934, Omar Kamal,Student,Ismailia,East,12/04/2023,outlook.com,Active
+C01595,Omar Ibrahim,Professional, Fayoum ,West,06/15/2022,gmail.com,Active
+C00909,Salma Kamal,Professional,6th of October,Central,2022-09-23,company.com,Active
+C01115,Salma Amin,Student,Luxor,south,2023/03/13,outlook.com,Inactive
+C01564,Hassan Mostafa,Student,6th of October,CENTRAL,17-Feb-2025,yahoo.com,Inactive
+C01862,Nour Mostafa,Business,Alexandria,North,2023/03/20,outlook.com,Active
+C01305,Laila Mostafa,Consumer,Ismailia,EAST,2023/10/20,company.com,Active
+C01245,Laila Amin,Business,Ismailia,East,05/26/2024,,Active
+C01116,Omar Sayed,Student,Minya,West,21/09/2022,,Active
+C00456,Omar Fathy,Student,Ismailia,East,26-Apr-2023,gmail.com,Active
+C01956,Nour Nabil,Student,Minya,West,26-May-2022,,Active
+C00438,Adam Ali,Consumer,Giza,South,2023/06/25,gmail.com,Active
+C00401,Hassan Nabil,Student,Cairo,North,20-Jun-2022,yahoo.com,Active
+C01370,Farah Sayed,Business,Suez,East,05-Apr-2023,company.com,Active
+C02017,Salma Hassan,Consumer,Alexandria,North,10/02/2022,company.com,Active
+C01479,Farah Sayed,Student,Fayoum,West,2022/10/29,yahoo.com,Active
+C01881,Farah Nabil,Business,Beni Suef,west,2023/05/20,gmail.com,Active
+C01979,Hassan Amin,Professional,Ismailia,East,09/25/2023,yahoo.com,Active
+C01558,Khaled Ali,Consumer,New Cairo,Central,10-Nov-2022,company.com,Active
+C00716,  Karim Nabil  ,Professional,Cairo,Central,2022-10-23,company.com,Active
+C00756,Adam Ibrahim,Business,Fayoum,West,06/09/2024,,Active
+C02131,Mariam Mostafa,Consumer,Luxor,south,02-Mar-2025,yahoo.com,Dormant
+C01004,Salma Samir,Consumer,Fayoum,West,2022/11/27,company.com,Active
+C00467,Nada Tarek,Business,Cairo,North,2025-01-17,company.com,Active
+C02045,Nada Mahmoud ,Business,Port Said,East,05/23/2024,company.com,Active
+C01385,Adam Amin,Business,Cairo,North,2023-07-05,company.com,Active
+C01786,Adam Sayed,Professional,Aswan,South,11-Apr-2022,company.com,Active
+C01219,Adam Tarek,Professional,Alexandria,North,2022/10/20,company.com,Active
+C01217,Salma Fathy,Professional,Minya,West,04/10/2023,outlook.com,Active
+C01727,Nada Samir,Consumer,Tanta,North,30-Sep-2022,company.com,Active
+C00879,Youssef Tarek,Professional,New Cairo,Central,2023-03-18,gmail.com,Active
+C01626,Farah Sayed,Consumer,Suez,East,04/01/2022,gmail.com,Active
+C02142,Mariam Mahmoud,Professional,Cairo,Central,12-Mar-2024,outlook.com,Active
+C00240,Mariam Tarek,Business,Tanta,North,08/20/2023,outlook.com,Dormant
+C02135,youssef mostafa,Professional,6th of October,Central,2023/10/21,company.com,Active
+C01320,Salma Kamal,Consumer,6th of October,central,2022/07/08,outlook.com,Active
+C00511,Hassan Samir,Professional,Cairo,Central,23-Oct-2023,gmail.com,Dormant
+C00280,Khaled Hassan,Student,Luxor,South,15-Mar-2025,gmail.com,Dormant
+C01136,Mariam Samir,Consumer,Aswan,South,04/02/2024,outlook.com,Dormant
+C02176,Nada Kamal ,Consumer,Aswan,South,24/07/2022,company.com,Active
+C00941,Karim Samir,Professional,Tanta,North,07-Jun-2023,gmail.com,Active
+C01598,Khaled Amin,Business,Fayoum,West,2024/11/13,company.com,Active
+C01568,Khaled Fathy,Consumer,Port Said,East,26/02/2023,gmail.com,Active
+C00128,Farah Ibrahim,Professional,Beni Suef,West,01/16/2024,outlook.com,Active
+C01891,Nour Ali,Business,Aswan,South,2024/01/27,outlook.com,Active
+C01367,Farah Ibrahim,Consumer,Luxor,South,03/27/2024,company.com,Active
+C00197,Salma Samir,Student,Fayoum,West,2023-03-17,company.com,Active
+C00553,Omar Tarek,Student,Giza,South,2022-06-24,company.com,Active
+C00807,Hassan Mostafa,Consumer,Tanta,North,02-Dec-2022,gmail.com,Active
+C01619,Farah Kamal,Consumer,Luxor,South,11-Oct-2022,yahoo.com,Active
+C00608,Adam Nabil,Consumer,Luxor,South,12/03/2022,outlook.com,Active
+C02132,Omar Sayed,Student,Minya,West,18/04/2022,,Active
+C01656,Salma Mahmoud,Business,6th of October,Central,2024-11-03,gmail.com,Active
+C01544,Karim Nabil,Business,Luxor,South,2024/01/02,yahoo.com,Active
+C00410,Khaled Samir,Consumer,Minya,West,07-Mar-2022,outlook.com,Active
+C02162,Nada Kamal,Consumer,Giza,South,2024-06-10,gmail.com,Active
+C01176,Mariam Fathy,Professional,Aswan,South,2023-04-07,yahoo.com,Active
+C01336,Laila Tarek,Business,6th of October,Central,02-Jul-2023,gmail.com,Active
+C01735,Youssef Ibrahim,Business,Minya,West,2023-02-16,company.com,Active
+C01653,Youssef Mahmoud,Business,New Cairo,Central,05/09/2024,gmail.com,Active
+C02044,Khaled Hassan,Student,Fayoum,West,04-Jun-2024,outlook.com,Active
+C00568,Hassan Sayed,Student,Suez,East,2024/07/31,yahoo.com,Inactive
+C00002,salma ibrahim,Professional,Cairo,North,09/22/2024,yahoo.com,Dormant
+C00452,Laila Ali,Business,Cairo,Central,2023-09-17,yahoo.com,Dormant
+C00790,Adam Ali,Consumer,Port Said,East,01-Jan-2022,gmail.com,Active
+C00457,Salma Hassan,Student,Alexandria,North,2024-10-12,yahoo.com,Active
+C01684,Omar Samir,Business,Beni Suef,West,24-Feb-2023,yahoo.com,Active
+C00142,Nada Samir,Consumer,ALEXANDRIA,North,02-Mar-2022,outlook.com,Active
+C00298,Karim Ali,Student,6th of October,Central,29-Jun-2024,yahoo.com,Active
+C01918,Laila Fathy ,Consumer,Tanta,North,08/26/2024,yahoo.com,Active
+C00783,Nour Ibrahim,Consumer,Suez,east,03/10/2023,outlook.com,Active
+C01759,Nada Ali,Consumer,Cairo,Central,2024/02/01,gmail.com,Active
+C00156,Salma Samir ,Student,Fayoum,West,2022/05/23,gmail.com,Active
+C00250,Salma Mahmoud,Business,6th of October,Central,03-Jan-2022,outlook.com,Active
+C01965,Hassan Ali,Professional,Alexandria,North,2023-03-23,outlook.com,Active
+C00554,Salma Tarek,Professional,Minya,West,10/24/2022,company.com,Active
+C00177,Nada Hassan ,Professional,Cairo,Central,27/07/2023,gmail.com,Dormant
+C01887,Mariam Kamal,Business,Minya,West,2022/03/12,yahoo.com,Active
+C01869,Adam Kamal,Student,Port Said,East,10/03/2022,yahoo.com,Active
+C02126, Khaled Mostafa,Student,Cairo,North,17-Apr-2023,company.com,Active
+C01696,Laila Tarek,Professional,Beni Suef,West,29/10/2022,yahoo.com,Active
+C00611,Karim Kamal,Student,Cairo,Central,2023-10-04,gmail.com,Active
+C01828,farah nabil,Student,Tanta,North,05/06/2024,yahoo.com,Active
+C00509,Hassan Sayed,Professional,Cairo,NORTH,08/04/2023,gmail.com,Active
+C01447,Nour Fathy,Professional,New Cairo,Central,2022/09/23,yahoo.com,Active
+C01016,Khaled Kamal,Student,Alexandria,North,09-Apr-2022,yahoo.com,Active
+C00186,Omar Kamal,Business,fayoum,West,2022-10-29,gmail.com,Active
+C00316,Nour Mostafa,Student,Fayoum,West,2024-05-27,yahoo.com,Active
+C01599,Farah Nabil,Student,Fayoum,West,08/05/2023,outlook.com,Active
+C00117,Youssef Kamal,Student,Cairo,Central,24/08/2024,gmail.com,Active
+C01844,Laila Amin,Professional,Suez,East,01/15/2023,yahoo.com,Active
+C00864,Farah Amin,Professional,New Cairo,Central,2022/10/09,company.com,Active
+C01437,Omar Ali,Professional,Giza,South,2022/12/04,gmail.com,Active
+C00693,Hassan Ibrahim,Business,Port Said,East,2022/05/10,gmail.com,Inactive
+C02013,Nada Mostafa,Consumer,6th of October,Central,09/03/2024,company.com,Active
+C01990,Farah Ibrahim,Professional,Suez,East,05/06/2023,outlook.com,Active
+C01711,Laila Mahmoud,Business,Aswan,South,11/10/2023,outlook.com,Active
+C00906,Mariam Mahmoud,Consumer,Tanta,North,03/06/2022,yahoo.com,Inactive
+C01452,Nour Ali,Student,Tanta,North,06/07/2022,outlook.com,Active
+C01255,Mariam Hassan,Consumer,Beni Suef,West,2022/02/03,company.com,Active
+C00721,Nada Amin,Business,Cairo,North,07/02/2022,outlook.com,Active
+C01097,Karim Fathy,Business,Luxor,South,15/11/2024,yahoo.com,Active
+C00762,Khaled Ali,Business,Aswan,South,24-Sep-2024,outlook.com,Active
+C02129,Laila Kamal,Consumer,Ismailia,East,25/09/2024,,Active
+C01767,Omar Sayed,Student,Cairo,Central,08/29/2022,gmail.com,Active
+C02028,LAILA SAYED,Consumer,Cairo,Central,08/04/2022,company.com,Active
+C00020,Salma Samir,Professional,Ismailia,east,2023/01/17,company.com,Active
+C01299,Laila Mostafa,Professional,Tanta,North,23/11/2024,company.com,Active
+C01826,Salma Mostafa,Business,6th of October,Central,2024/04/04,outlook.com,Active
+C01548,Omar Mahmoud,Professional,Giza,South,12/29/2023,outlook.com,Active
+C00881,Hassan Samir,Student,Alexandria,North,2024/08/18,gmail.com,Dormant
+C00372,Laila Kamal,Professional,New Cairo,Central,2023/11/18,outlook.com,Active
+C00288,Salma Samir,Professional,New Cairo,Central,2023/08/17,yahoo.com,Active
+C00150,Hassan Kamal,Professional,Alexandria,North,2022/04/09,yahoo.com,Active
+C00122,Nour Nabil,Student,Aswan,South,2023/04/07,gmail.com,Active
+C01198,Khaled Amin,Consumer,Cairo,Central,2022/09/28,gmail.com,Active
+C00115,Mariam Mostafa,Student,Suez,East,02/20/2023,gmail.com,Active
+C01429,Adam Mostafa,Professional,Ismailia,East,19-May-2024,outlook.com,Active
+C01446,Farah Mahmoud,Student,Giza,South,07/29/2022,gmail.com,Active
+C00151,Mariam Mostafa,Student,Aswan,South,2025-01-05,outlook.com,Active
+C00351,Omar Mahmoud,Business,CAIRO,North,07/23/2023,outlook.com,Active
+C01732,Khaled Mostafa,Consumer,Giza,South,2025-01-22,gmail.com,Active
+C00873,Hassan Mahmoud,Student,New Cairo,Central,2024-01-04,gmail.com,Active
+C00143,Hassan Fathy,Business,Beni Suef,West,2022-03-02,company.com,Active
+C00942,Youssef Tarek,Consumer,Aswan,SOUTH,2022/10/15,gmail.com,Active
+C01539,Mariam Ibrahim,Consumer,New Cairo,Central,2023/10/27,yahoo.com,Active
+C00579,Nada Mostafa,Consumer,Beni Suef,West,2023-03-07,gmail.com,Active
+C01708,Hassan Samir,Professional,Port Said,East,10-Aug-2022,gmail.com,Active
+C02042,Salma Samir,Consumer,Aswan,South,2024/09/09,outlook.com,Active
+C00167,Adam Samir,Consumer,Alexandria,North,2023-05-07,yahoo.com,Active
+C02194,Khaled Amin,Student,Minya,West,2024/08/09,yahoo.com,Active
+C00356,Nour Mahmoud,Professional,Suez,East,05/28/2022,gmail.com,Active
+C00527,Laila Nabil,Professional,New Cairo,Central,2023/02/20,outlook.com,Active
+C01175,Farah Amin,Business,Ismailia,East,29/04/2023,yahoo.com,Active
+C02172,Laila Mostafa,Professional,Port Said,East,19-Jul-2022,company.com,Active
+C00630,Mariam Fathy,Professional,Giza,South,11-Jun-2022,outlook.com,Inactive
+C01520,Khaled Nabil,Student,Beni Suef,West,21/02/2022,gmail.com,Active
+C00247,Salma Tarek,Professional,Ismailia,East,22/10/2024,gmail.com,Active
+C00657,Nour Hassan,Student,Port Said,East,27-Dec-2022,gmail.com,Active
+C00272,Khaled Tarek,Business,6th of October,Central,04/08/2025,yahoo.com,Dormant
+C00279, Nada Ibrahim,Professional,Ismailia,East,27-May-2023,,Active
+C01225,Karim Nabil,Consumer,Aswan,South,2024/10/25,gmail.com,Active
+C00028,Khaled Sayed,Consumer,Fayoum,West,07/03/2024,gmail.com,Active
+C02043,Youssef Fathy,Student,Beni Suef,West,01/07/2023,gmail.com,Active
+C01714,Salma Tarek,Consumer,Tanta,North,02/07/2024,yahoo.com,Dormant
+C01173,Farah Samir,Consumer,Beni Suef,West,09/28/2024,outlook.com,Active
+C01185,Nada Ali,Consumer,Giza,South,03-Nov-2022,yahoo.com,Active
+C00075,Farah Ibrahim,Business,Port Said,East,06/10/2022,gmail.com,Active
+C01725,Salma Nabil,Consumer,Ismailia,East,09-Feb-2023,outlook.com,Dormant
+C00462,Karim Kamal,Student,Cairo,North,2022/02/23,outlook.com,Active
+C01944,Karim Sayed,Student,Ismailia,East,21/12/2022,company.com,Active
+C00712,Hassan Mahmoud,Student,Tanta,North,23/01/2025,gmail.com,Active
+C01993,Karim Amin,Professional,Cairo,North,2024-02-03,company.com,Inactive
+C00501,Salma Ali,Consumer,Minya,West,08/20/2024,outlook.com,Active
+C02085,Salma Ali,Business,Ismailia,East,13/08/2023,company.com,Active
+C01620,Nour Nabil,Student,Alexandria,North,10/30/2022,yahoo.com,Active
+C00682,Karim Hassan,Professional,Alexandria,North,2023-05-04,gmail.com,Active
+C00744,Farah Tarek,Professional,Aswan,South,02/14/2024,outlook.com,Active
+C02052,Laila Mostafa,Student,Luxor,South,2022/02/17,outlook.com,Active
+C02138,Hassan Amin,Consumer,6th of October,Central,29/07/2022,gmail.com,Active
+C00339,Adam Ibrahim ,Student,Giza,South,25/05/2023,outlook.com,Active
+C02024,Mariam Fathy,Consumer,Cairo,Central,24-Jul-2023,gmail.com,Active
+C01328,Adam Ali,Consumer,Fayoum,West,2022/01/27,gmail.com,Active
+C01025,Karim Kamal,Business,Port Said,East,20/05/2024,company.com,Dormant
+C00482,Nour Ibrahim,Professional,Fayoum,West,2023/10/14,outlook.com,Active
+C00093,Adam Hassan,Business,Beni Suef,West,13-Oct-2024,gmail.com,Dormant
+C01282,Salma Ali,Student,Suez,East,10/11/2024,yahoo.com,Active
+C01463,Nour Ali,Student,Aswan,South,10-Aug-2022,yahoo.com,Active
+C01755,Farah Nabil,Consumer,Minya,West,2023/07/18,gmail.com,Inactive
+C00582,Youssef Mahmoud,Student,Giza,South,2023/02/03,outlook.com,Active
+C01335,Karim Tarek,Student,Tanta,North,04/04/2023,outlook.com,Active
+C00385,Hassan Mahmoud,Business,6th of October,Central,01/06/2023,outlook.com,Active
+C00494,Mariam Kamal,Business,Aswan,South,2025/02/28,outlook.com,Active
+C00935,Mariam Sayed,Consumer,Tanta,North,2023-07-16,yahoo.com,Inactive
+C00648,Karim Nabil,Business,6TH OF OCTOBER,Central,2024-09-23,outlook.com,Active
+C00278,Mariam Mahmoud,Consumer,Luxor,South,2022/04/11,yahoo.com,Active
+C01883,Hassan Ali,Consumer,Ismailia,East,02/06/2023,yahoo.com,Active
+C00981,Karim Fathy,Consumer,Cairo,North,04-Mar-2024,outlook.com,Active
+C01014,Youssef Samir,Business,Minya,West,27-Jan-2025,outlook.com,Active
+C01968,Omar Ibrahim,Consumer,Port Said,East,07-Jun-2022,gmail.com,Active
+C00860,Hassan Nabil,Business,6th of October,Central,10-Mar-2023,company.com,Active
+C01329,Salma Amin,Consumer,Cairo,North,2022/02/17,yahoo.com,Active
+C01775,Omar Ibrahim,Business,Minya,West,2023/08/30,gmail.com,Dormant
+C02091,Salma Samir,Student,Luxor,South,06/07/2023,company.com,Active
+C00956,Mariam Kamal,Student,Beni Suef,West,08-Mar-2025,gmail.com,Active
+C00985,Nour Mostafa,Professional,Ismailia,East,2023-12-10,company.com,Active
+C01289,Karim Sayed,Professional,Luxor,South,26-Jan-2024,company.com,Active
+C01751,Karim Ali,Professional,Ismailia,east,2022-11-07,company.com,Active
+C00831,Omar Sayed,Business,Cairo,Central,22-Feb-2022,gmail.com,Active
+C00063,Khaled Samir,Business,tanta,North,2022/02/26,yahoo.com,Active
+C01573,Nour Fathy,Professional,Aswan,South,2022-12-03,yahoo.com,Inactive
+C01842,Hassan Mahmoud,Professional,Fayoum,West,2023-08-30,yahoo.com,Active
+C00856,Khaled Hassan,Consumer,Port Said,East,05/22/2022,gmail.com,Active
+C01102,Laila Mostafa,Consumer,Fayoum,West,2024/02/28,outlook.com,Active
+C00276,Nour Kamal,Consumer,Cairo,North,05/03/2022,yahoo.com,Active
+C00424,Karim Sayed,Professional,Suez,East,2022-08-19,yahoo.com,Active
+C01133,Laila Samir,Student,Cairo,North,11-May-2023,outlook.com,Dormant
+C00863,Adam Nabil,Student,Beni Suef,West,01/31/2023,company.com,Active
+C01376,Laila Mostafa,Student,Tanta,North,27/08/2023,yahoo.com,Active
+C01460,Hassan Nabil,Consumer,ALEXANDRIA,North,20-Mar-2022,company.com,Active
+C02107,Nada Fathy,Student,minya,West,08/13/2024,company.com,Active
+C01183,Salma Fathy,Student,Ismailia,East,11/18/2023,yahoo.com,Active
+C02169,Karim Nabil,Student,Fayoum,West,05-Aug-2023,outlook.com,Active
+C02096,Farah Sayed,Professional,Port Said,East,22-Jul-2023,,Active
+C01718,Hassan Kamal,Consumer,Cairo,Central,2023/10/25,,Active
+C00569,Laila Fathy,Student, Luxor ,South,10/18/2024,gmail.com,Active
+C00717,Salma Sayed,Professional,Alexandria,North,22/05/2024,outlook.com,Inactive
+C00354,Nada Amin,Consumer,Minya,West,15/02/2023,company.com,Active
+C01910,Nada Ibrahim,Business,Beni Suef,West,04/05/2024,outlook.com,Active
+C01265,Adam Ibrahim,Consumer,Tanta,North,10-Sep-2024,gmail.com,Active
+C00483,Karim Ibrahim,Professional,Beni Suef,West,09/07/2024,company.com,Active
+C00164, Karim Mostafa,Business,Minya,West,10-Oct-2024,yahoo.com,Active
+C02184,Omar Tarek,Professional,Suez,East,2024-03-15,,Active
+C01680,Youssef Nabil,Professional, Cairo ,North,29-Feb-2024,company.com,Active
+C00299,Laila Ibrahim,Student,Port Said,East,11/23/2022,yahoo.com,Active
+C00931,Khaled Sayed,Professional,Aswan,South,19-Jun-2022,outlook.com,Active
+C01075,Salma Mahmoud,Consumer,Tanta,North,2023-02-14,outlook.com,Active
+C00547,Karim Sayed,Consumer,Suez,East,2022-05-28,outlook.com,Inactive
+C00709,Khaled Samir,Consumer,New Cairo,Central,17/08/2022,company.com,Active
+C00703,Karim Ali,Business,6th of October,central,2023/09/29,outlook.com,Inactive
+C00181,farah tarek,Business,Minya,West,25-Nov-2023,outlook.com,Inactive
+C01339,Omar Sayed,Consumer,Fayoum,West,20-Dec-2022,company.com,Active
+C01142,Karim Mahmoud,Professional,Ismailia,East,2023-06-30,yahoo.com,Active
+C01131,Youssef Mahmoud,Professional,Fayoum,West,02/02/2022,gmail.com,Active
+C02122,Salma Nabil,Business,Minya,West,12/13/2023,company.com,Active
+C01661,Nada Tarek,Business,Tanta,North,08-Oct-2023,,Active
+C01324,Khaled Ali,Business,Fayoum,West,03/30/2025,gmail.com,Active
+C00616,Khaled Ali,Professional,Giza,South,2022-09-11,gmail.com,Active
+C01901,Adam Mostafa,Business,Alexandria,North,18/03/2023,yahoo.com,Active
+C00363,Khaled Ali,Business,Fayoum,West,2022-07-13,outlook.com,Inactive
+C01721,Karim Fathy,Business,Cairo,Central,2024/06/02,gmail.com,Active
+C01462,Farah Samir,Student,Suez,East,12/22/2024,outlook.com,Active
+C01674,Laila Fathy,Consumer,Beni Suef,West,16/03/2024,company.com,Active
+C00763,Nada Nabil,Business,Alexandria,North,2024-10-07,yahoo.com,Active
+C00405,Nour Mostafa,Student,New Cairo,Central,26/02/2023,,Active
+C01986,Khaled Amin,Consumer,Ismailia,East,2024/03/21,company.com,Active
+C00113,  Omar Fathy  ,Business,Suez,East,2023-02-11,yahoo.com,Active
+C01030,Farah Sayed,Student,Luxor,South,05/06/2022,gmail.com,Active
+C01902,  Mariam Sayed  ,Student,Ismailia,East,19/11/2022,gmail.com,Active
+C01909, Farah Kamal,Student,Ismailia,East,03/07/2024,outlook.com,Active
+C00115,Mariam Mostafa,Student,Suez,East,02/20/2023,gmail.com,Active
+C00554,Salma Tarek,Professional,Minya,West,10/24/2022,company.com,Active
+C01214,  Youssef Nabil  ,Consumer,Cairo,Central,2024/02/03,yahoo.com,Active
+C00834,Nada Sayed,Student,Cairo,Central,04/29/2024,gmail.com,Active
+C01134,Adam Ali,Professional,Suez,East,01-Sep-2022,gmail.com,Active
+C00752,Salma Kamal,Professional,Giza,South,20-Sep-2024,company.com,Active
+C02069,Nour Mahmoud,Professional,Alexandria,North,20/07/2022,yahoo.com,Active
+C00745,Laila Hassan,Professional,Aswan,South,03/22/2025,yahoo.com,Active
+C00263,Youssef Tarek,Student,Aswan,South,2022-09-19,yahoo.com,Active
+C01376,Laila Mostafa,Student,Tanta,North,27/08/2023,yahoo.com,Active
+C01025,Karim Kamal,Business,Port Said,East,20/05/2024,company.com,Dormant
+C02001,Omar Mostafa,Consumer,Port Said,East,10/14/2023,gmail.com,Active
+C01476,Nour Tarek,Professional,cairo,North,03/23/2023,yahoo.com,Active
+C00201,Farah Mahmoud,Business,New Cairo,Central,2023/08/14,gmail.com,Active
+C00165,Nada Sayed,Consumer,Suez,East,23/07/2023,company.com,Active
+C00555,Khaled Mostafa,Consumer,Cairo,North,2023-09-15,company.com,Active
+C00908,Nour Ibrahim,Professional,Giza,South,11/16/2024,company.com,Active
+C00624,Omar Nabil,Business,Cairo,North,23/08/2022,company.com,Active
+C00816,Karim Nabil,Consumer,Suez,East,2025-01-27,outlook.com,Active
+C01059,Khaled Amin,Business,Giza,South,11/04/2024,,Active
+C01018,Laila Nabil,Business,Alexandria,North,2023/06/16,company.com,Inactive
+C00885,Laila Sayed,Professional,New Cairo,Central,2023-09-29,gmail.com,Active
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
